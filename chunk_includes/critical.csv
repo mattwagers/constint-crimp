@@ -1,0 +1,385 @@
+label,Group,condition,uid,item,structure,attractor,verb,gram,verb_region,sentence
+exp-crit-orc-pl-pl,A,orc-pl-pl,CRIMP-01-orc-pl-pl,1,orc,pl,pl,ungram,5,It's Emily who the officer from the checkpoints want to promote.
+exp-crit-orc-pl-sg,B,orc-pl-sg,CRIMP-01-orc-pl-sg,1,orc,pl,sg,gram,5,It's Emily who the officer from the checkpoints wants to promote.
+exp-crit-orc-sg-pl,C,orc-sg-pl,CRIMP-01-orc-sg-pl,1,orc,sg,pl,ungram,5,It's Emily who the officer from the checkpoint want to promote.
+exp-crit-orc-sg-sg,D,orc-sg-sg,CRIMP-01-orc-sg-sg,1,orc,sg,sg,gram,5,It's Emily who the officer from the checkpoint wants to promote.
+exp-crit-src-pl-pl,E,src-pl-pl,CRIMP-01-src-pl-pl,1,src,pl,pl,ungram,3,It's Emily who want to promote the officer from the checkpoints.
+exp-crit-src-pl-sg,F,src-pl-sg,CRIMP-01-src-pl-sg,1,src,pl,sg,gram,3,It's Emily who wants to promote the officer from the checkpoints.
+exp-crit-src-sg-pl,G,src-sg-pl,CRIMP-01-src-sg-pl,1,src,sg,pl,ungram,3,It's Emily who want to promote the officer from the checkpoint.
+exp-crit-src-sg-sg,H,src-sg-sg,CRIMP-01-src-sg-sg,1,src,sg,sg,gram,3,It's Emily who wants to promote the officer from the checkpoint.
+exp-crit-orc-pl-pl,B,orc-pl-pl,CRIMP-02-orc-pl-pl,2,orc,pl,pl,ungram,5,It's David who the doctor with the charts check on daily.
+exp-crit-orc-pl-sg,C,orc-pl-sg,CRIMP-02-orc-pl-sg,2,orc,pl,sg,gram,5,It's David who the doctor with the charts checks on daily.
+exp-crit-orc-sg-pl,D,orc-sg-pl,CRIMP-02-orc-sg-pl,2,orc,sg,pl,ungram,5,It's David who the doctor with the chart check on daily.
+exp-crit-orc-sg-sg,E,orc-sg-sg,CRIMP-02-orc-sg-sg,2,orc,sg,sg,gram,5,It's David who the doctor with the chart checks on daily.
+exp-crit-src-pl-pl,F,src-pl-pl,CRIMP-02-src-pl-pl,2,src,pl,pl,ungram,3,It's David who check on the doctor with the charts daily.
+exp-crit-src-pl-sg,G,src-pl-sg,CRIMP-02-src-pl-sg,2,src,pl,sg,gram,3,It's David who checks on the doctor with the charts daily.
+exp-crit-src-sg-pl,H,src-sg-pl,CRIMP-02-src-sg-pl,2,src,sg,pl,ungram,3,It's David who check on the doctor with the chart daily.
+exp-crit-src-sg-sg,A,src-sg-sg,CRIMP-02-src-sg-sg,2,src,sg,sg,gram,3,It's David who checks on the doctor with the chart daily.
+exp-crit-orc-pl-pl,C,orc-pl-pl,CRIMP-03-orc-pl-pl,3,orc,pl,pl,ungram,5,It's Ellen who the director of the theaters rely on completely.
+exp-crit-orc-pl-sg,D,orc-pl-sg,CRIMP-03-orc-pl-sg,3,orc,pl,sg,gram,5,It's Ellen who the director of the theaters relies on completely.
+exp-crit-orc-sg-pl,E,orc-sg-pl,CRIMP-03-orc-sg-pl,3,orc,sg,pl,ungram,5,It's Ellen who the director of the theater rely on completely.
+exp-crit-orc-sg-sg,F,orc-sg-sg,CRIMP-03-orc-sg-sg,3,orc,sg,sg,gram,5,It's Ellen who the director of the theater relies on completely.
+exp-crit-src-pl-pl,G,src-pl-pl,CRIMP-03-src-pl-pl,3,src,pl,pl,ungram,3,It's Ellen who rely on the director of the theaters completely.
+exp-crit-src-pl-sg,H,src-pl-sg,CRIMP-03-src-pl-sg,3,src,pl,sg,gram,3,It's Ellen who relies on the director of the theaters completely.
+exp-crit-src-sg-pl,A,src-sg-pl,CRIMP-03-src-sg-pl,3,src,sg,pl,ungram,3,It's Ellen who rely on the director of the theater completely.
+exp-crit-src-sg-sg,B,src-sg-sg,CRIMP-03-src-sg-sg,3,src,sg,sg,gram,3,It's Ellen who relies on the director of the theater completely.
+exp-crit-orc-pl-pl,D,orc-pl-pl,CRIMP-04-orc-pl-pl,4,orc,pl,pl,ungram,5,It's Michael who the coach with the playbooks like the best.
+exp-crit-orc-pl-sg,E,orc-pl-sg,CRIMP-04-orc-pl-sg,4,orc,pl,sg,gram,5,It's Michael who the coach with the playbooks likes the best.
+exp-crit-orc-sg-pl,F,orc-sg-pl,CRIMP-04-orc-sg-pl,4,orc,sg,pl,ungram,5,It's Michael who the coach with the playbook like the best.
+exp-crit-orc-sg-sg,G,orc-sg-sg,CRIMP-04-orc-sg-sg,4,orc,sg,sg,gram,5,It's Michael who the coach with the playbook likes the best.
+exp-crit-src-pl-pl,H,src-pl-pl,CRIMP-04-src-pl-pl,4,src,pl,pl,ungram,3,It's Michael who like the coach with the playbooks the best.
+exp-crit-src-pl-sg,A,src-pl-sg,CRIMP-04-src-pl-sg,4,src,pl,sg,gram,3,It's Michael who likes the coach with the playbooks the best.
+exp-crit-src-sg-pl,B,src-sg-pl,CRIMP-04-src-sg-pl,4,src,sg,pl,ungram,3,It's Michael who like the coach with the playbook the best.
+exp-crit-src-sg-sg,C,src-sg-sg,CRIMP-04-src-sg-sg,4,src,sg,sg,gram,3,It's Michael who likes the coach with the playbook the best.
+exp-crit-orc-pl-pl,E,orc-pl-pl,CRIMP-05-orc-pl-pl,5,orc,pl,pl,ungram,5,It's Monica who the driver of the convertibles see during the morning commute.
+exp-crit-orc-pl-sg,F,orc-pl-sg,CRIMP-05-orc-pl-sg,5,orc,pl,sg,gram,5,It's Monica who the driver of the convertibles sees during the morning commute.
+exp-crit-orc-sg-pl,G,orc-sg-pl,CRIMP-05-orc-sg-pl,5,orc,sg,pl,ungram,5,It's Monica who the driver of the convertible see during the morning commute.
+exp-crit-orc-sg-sg,H,orc-sg-sg,CRIMP-05-orc-sg-sg,5,orc,sg,sg,gram,5,It's Monica who the driver of the convertible sees during the morning commute.
+exp-crit-src-pl-pl,A,src-pl-pl,CRIMP-05-src-pl-pl,5,src,pl,pl,ungram,3,It's Monica who see the driver of the convertibles during the morning commute.
+exp-crit-src-pl-sg,B,src-pl-sg,CRIMP-05-src-pl-sg,5,src,pl,sg,gram,3,It's Monica who sees the driver of the convertibles during the morning commute.
+exp-crit-src-sg-pl,C,src-sg-pl,CRIMP-05-src-sg-pl,5,src,sg,pl,ungram,3,It's Monica who see the driver of the convertible during the morning commute.
+exp-crit-src-sg-sg,D,src-sg-sg,CRIMP-05-src-sg-sg,5,src,sg,sg,gram,3,It's Monica who sees the driver of the convertible during the morning commute.
+exp-crit-orc-pl-pl,F,orc-pl-pl,CRIMP-06-orc-pl-pl,6,orc,pl,pl,ungram,5,It's John who the farmer with the orchards hire to pick fruit.
+exp-crit-orc-pl-sg,G,orc-pl-sg,CRIMP-06-orc-pl-sg,6,orc,pl,sg,gram,5,It's John who the farmer with the orchards hires to pick fruit.
+exp-crit-orc-sg-pl,H,orc-sg-pl,CRIMP-06-orc-sg-pl,6,orc,sg,pl,ungram,5,It's John who the farmer with the orchard hire to pick fruit.
+exp-crit-orc-sg-sg,A,orc-sg-sg,CRIMP-06-orc-sg-sg,6,orc,sg,sg,gram,5,It's John who the farmer with the orchard hires to pick fruit.
+exp-crit-src-pl-pl,B,src-pl-pl,CRIMP-06-src-pl-pl,6,src,pl,pl,ungram,3,It's John who hire the farmer with the orchards to pick fruit.
+exp-crit-src-pl-sg,C,src-pl-sg,CRIMP-06-src-pl-sg,6,src,pl,sg,gram,3,It's John who hires the farmer with the orchards to pick fruit.
+exp-crit-src-sg-pl,D,src-sg-pl,CRIMP-06-src-sg-pl,6,src,sg,pl,ungram,3,It's John who hire the farmer with the orchard to pick fruit.
+exp-crit-src-sg-sg,E,src-sg-sg,CRIMP-06-src-sg-sg,6,src,sg,sg,gram,3,It's John who hires the farmer with the orchard to pick fruit.
+exp-crit-orc-pl-pl,G,orc-pl-pl,CRIMP-07-orc-pl-pl,7,orc,pl,pl,ungram,5,It's Megan who the administrator of the hospitals depend on to balance the books.
+exp-crit-orc-pl-sg,H,orc-pl-sg,CRIMP-07-orc-pl-sg,7,orc,pl,sg,gram,5,It's Megan who the administrator of the hospitals depends on to balance the books.
+exp-crit-orc-sg-pl,A,orc-sg-pl,CRIMP-07-orc-sg-pl,7,orc,sg,pl,ungram,5,It's Megan who the administrator of the hospital depend on to balance the books.
+exp-crit-orc-sg-sg,B,orc-sg-sg,CRIMP-07-orc-sg-sg,7,orc,sg,sg,gram,5,It's Megan who the administrator of the hospital depends on to balance the books.
+exp-crit-src-pl-pl,C,src-pl-pl,CRIMP-07-src-pl-pl,7,src,pl,pl,ungram,3,It's Megan who depend on the administrator of the hospitals to balance the books.
+exp-crit-src-pl-sg,D,src-pl-sg,CRIMP-07-src-pl-sg,7,src,pl,sg,gram,3,It's Megan who depends on the administrator of the hospitals to balance the books.
+exp-crit-src-sg-pl,E,src-sg-pl,CRIMP-07-src-sg-pl,7,src,sg,pl,ungram,3,It's Megan who depend on the administrator of the hospital to balance the books.
+exp-crit-src-sg-sg,F,src-sg-sg,CRIMP-07-src-sg-sg,7,src,sg,sg,gram,3,It's Megan who depends on the administrator of the hospital to balance the books.
+exp-crit-orc-pl-pl,H,orc-pl-pl,CRIMP-08-orc-pl-pl,8,orc,pl,pl,ungram,5,It's Robert who the researcher with the patents spend the most time with.
+exp-crit-orc-pl-sg,A,orc-pl-sg,CRIMP-08-orc-pl-sg,8,orc,pl,sg,gram,5,It's Robert who the researcher with the patents spends the most time with.
+exp-crit-orc-sg-pl,B,orc-sg-pl,CRIMP-08-orc-sg-pl,8,orc,sg,pl,ungram,5,It's Robert who the researcher with the patent spend the most time with.
+exp-crit-orc-sg-sg,C,orc-sg-sg,CRIMP-08-orc-sg-sg,8,orc,sg,sg,gram,5,It's Robert who the researcher with the patent spends the most time with.
+exp-crit-src-pl-pl,D,src-pl-pl,CRIMP-08-src-pl-pl,8,src,pl,pl,ungram,3,It's Robert who spend the most time with the researcher with the patents.
+exp-crit-src-pl-sg,E,src-pl-sg,CRIMP-08-src-pl-sg,8,src,pl,sg,gram,3,It's Robert who spends the most time with the researcher with the patents.
+exp-crit-src-sg-pl,F,src-sg-pl,CRIMP-08-src-sg-pl,8,src,sg,pl,ungram,3,It's Robert who spend the most time with the researcher with the patent.
+exp-crit-src-sg-sg,G,src-sg-sg,CRIMP-08-src-sg-sg,8,src,sg,sg,gram,3,It's Robert who spends the most time with the researcher with the patent.
+exp-crit-orc-pl-pl,A,orc-pl-pl,CRIMP-09-orc-pl-pl,9,orc,pl,pl,ungram,5,It's Laura who the aide in the offices report to directly.
+exp-crit-orc-pl-sg,B,orc-pl-sg,CRIMP-09-orc-pl-sg,9,orc,pl,sg,gram,5,It's Laura who the aide in the offices reports to directly.
+exp-crit-orc-sg-pl,C,orc-sg-pl,CRIMP-09-orc-sg-pl,9,orc,sg,pl,ungram,5,It's Laura who the aide in the office report to directly.
+exp-crit-orc-sg-sg,D,orc-sg-sg,CRIMP-09-orc-sg-sg,9,orc,sg,sg,gram,5,It's Laura who the aide in the office reports to directly.
+exp-crit-src-pl-pl,E,src-pl-pl,CRIMP-09-src-pl-pl,9,src,pl,pl,ungram,3,It's Laura who report directly to the aide in the offices.
+exp-crit-src-pl-sg,F,src-pl-sg,CRIMP-09-src-pl-sg,9,src,pl,sg,gram,3,It's Laura who reports directly to the aide in the offices.
+exp-crit-src-sg-pl,G,src-sg-pl,CRIMP-09-src-sg-pl,9,src,sg,pl,ungram,3,It's Laura who report directly to the aide in the office.
+exp-crit-src-sg-sg,H,src-sg-sg,CRIMP-09-src-sg-sg,9,src,sg,sg,gram,3,It's Laura who reports directly to the aide in the office.
+exp-crit-orc-pl-pl,B,orc-pl-pl,CRIMP-10-orc-pl-pl,10,orc,pl,pl,ungram,5,It's James who the server with the bracelets hate the most.
+exp-crit-orc-pl-sg,C,orc-pl-sg,CRIMP-10-orc-pl-sg,10,orc,pl,sg,gram,5,It's James who the server with the bracelets hates the most.
+exp-crit-orc-sg-pl,D,orc-sg-pl,CRIMP-10-orc-sg-pl,10,orc,sg,pl,ungram,5,It's James who the server with the bracelet hate the most.
+exp-crit-orc-sg-sg,E,orc-sg-sg,CRIMP-10-orc-sg-sg,10,orc,sg,sg,gram,5,It's James who the server with the bracelet hates the most.
+exp-crit-src-pl-pl,F,src-pl-pl,CRIMP-10-src-pl-pl,10,src,pl,pl,ungram,3,It's James who hate the server with the bracelets the most.
+exp-crit-src-pl-sg,G,src-pl-sg,CRIMP-10-src-pl-sg,10,src,pl,sg,gram,3,It's James who hates the server with the bracelets the most.
+exp-crit-src-sg-pl,H,src-sg-pl,CRIMP-10-src-sg-pl,10,src,sg,pl,ungram,3,It's James who hate the server with the bracelet the most.
+exp-crit-src-sg-sg,A,src-sg-sg,CRIMP-10-src-sg-sg,10,src,sg,sg,gram,3,It's James who hates the server with the bracelet the most.
+exp-crit-orc-pl-pl,C,orc-pl-pl,CRIMP-11-orc-pl-pl,11,orc,pl,pl,ungram,5,It's Hannah who the host of the shows praise so warmly.
+exp-crit-orc-pl-sg,D,orc-pl-sg,CRIMP-11-orc-pl-sg,11,orc,pl,sg,gram,5,It's Hannah who the host of the shows praises so warmly.
+exp-crit-orc-sg-pl,E,orc-sg-pl,CRIMP-11-orc-sg-pl,11,orc,sg,pl,ungram,5,It's Hannah who the host of the show praise so warmly.
+exp-crit-orc-sg-sg,F,orc-sg-sg,CRIMP-11-orc-sg-sg,11,orc,sg,sg,gram,5,It's Hannah who the host of the show praises so warmly.
+exp-crit-src-pl-pl,G,src-pl-pl,CRIMP-11-src-pl-pl,11,src,pl,pl,ungram,3,It's Hannah who praise the host of the shows so warmly.
+exp-crit-src-pl-sg,H,src-pl-sg,CRIMP-11-src-pl-sg,11,src,pl,sg,gram,3,It's Hannah who praises the host of the shows so warmly.
+exp-crit-src-sg-pl,A,src-sg-pl,CRIMP-11-src-sg-pl,11,src,sg,pl,ungram,3,It's Hannah who praise the host of the show so warmly.
+exp-crit-src-sg-sg,B,src-sg-sg,CRIMP-11-src-sg-sg,11,src,sg,sg,gram,3,It's Hannah who praises the host of the show so warmly.
+exp-crit-orc-pl-pl,D,orc-pl-pl,CRIMP-12-orc-pl-pl,12,orc,pl,pl,ungram,5,It's Brian who the activist with the banners criticize so harshly.
+exp-crit-orc-pl-sg,E,orc-pl-sg,CRIMP-12-orc-pl-sg,12,orc,pl,sg,gram,5,It's Brian who the activist with the banners criticizes so harshly.
+exp-crit-orc-sg-pl,F,orc-sg-pl,CRIMP-12-orc-sg-pl,12,orc,sg,pl,ungram,5,It's Brian who the activist with the banner criticize so harshly.
+exp-crit-orc-sg-sg,G,orc-sg-sg,CRIMP-12-orc-sg-sg,12,orc,sg,sg,gram,5,It's Brian who the activist with the banner criticizes so harshly.
+exp-crit-src-pl-pl,H,src-pl-pl,CRIMP-12-src-pl-pl,12,src,pl,pl,ungram,3,It's Brian who criticize the activist with the banners so harshly.
+exp-crit-src-pl-sg,A,src-pl-sg,CRIMP-12-src-pl-sg,12,src,pl,sg,gram,3,It's Brian who criticizes the activist with the banners so harshly.
+exp-crit-src-sg-pl,B,src-sg-pl,CRIMP-12-src-sg-pl,12,src,sg,pl,ungram,3,It's Brian who criticize the activist with the banner so harshly.
+exp-crit-src-sg-sg,C,src-sg-sg,CRIMP-12-src-sg-sg,12,src,sg,sg,gram,3,It's Brian who criticizes the activist with the banner so harshly.
+exp-crit-orc-pl-pl,E,orc-pl-pl,CRIMP-13-orc-pl-pl,13,orc,pl,pl,ungram,5,It's Julia who the politician behind the amendments consult during a crisis.
+exp-crit-orc-pl-sg,F,orc-pl-sg,CRIMP-13-orc-pl-sg,13,orc,pl,sg,gram,5,It's Julia who the politician behind the amendments consults during a crisis.
+exp-crit-orc-sg-pl,G,orc-sg-pl,CRIMP-13-orc-sg-pl,13,orc,sg,pl,ungram,5,It's Julia who the politician behind the amendment consult during a crisis.
+exp-crit-orc-sg-sg,H,orc-sg-sg,CRIMP-13-orc-sg-sg,13,orc,sg,sg,gram,5,It's Julia who the politician behind the amendment consults during a crisis.
+exp-crit-src-pl-pl,A,src-pl-pl,CRIMP-13-src-pl-pl,13,src,pl,pl,ungram,3,It's Julia who consult the politician behind the amendments during a crisis.
+exp-crit-src-pl-sg,B,src-pl-sg,CRIMP-13-src-pl-sg,13,src,pl,sg,gram,3,It's Julia who consults the politician behind the amendments during a crisis.
+exp-crit-src-sg-pl,C,src-sg-pl,CRIMP-13-src-sg-pl,13,src,sg,pl,ungram,3,It's Julia who consult the politician behind the amendment during a crisis.
+exp-crit-src-sg-sg,D,src-sg-sg,CRIMP-13-src-sg-sg,13,src,sg,sg,gram,3,It's Julia who consults the politician behind the amendment during a crisis.
+exp-crit-orc-pl-pl,F,orc-pl-pl,CRIMP-14-orc-pl-pl,14,orc,pl,pl,ungram,5,It's Kevin who the producer of the films consider the safest bet.
+exp-crit-orc-pl-sg,G,orc-pl-sg,CRIMP-14-orc-pl-sg,14,orc,pl,sg,gram,5,It's Kevin who the producer of the films considers the safest bet.
+exp-crit-orc-sg-pl,H,orc-sg-pl,CRIMP-14-orc-sg-pl,14,orc,sg,pl,ungram,5,It's Kevin who the producer of the film consider the safest bet.
+exp-crit-orc-sg-sg,A,orc-sg-sg,CRIMP-14-orc-sg-sg,14,orc,sg,sg,gram,5,It's Kevin who the producer of the film considers the safest bet.
+exp-crit-src-pl-pl,B,src-pl-pl,CRIMP-14-src-pl-pl,14,src,pl,pl,ungram,3,It's Kevin who consider the producer of the films the safest bet.
+exp-crit-src-pl-sg,C,src-pl-sg,CRIMP-14-src-pl-sg,14,src,pl,sg,gram,3,It's Kevin who considers the producer of the films the safest bet.
+exp-crit-src-sg-pl,D,src-sg-pl,CRIMP-14-src-sg-pl,14,src,sg,pl,ungram,3,It's Kevin who consider the producer of the film the safest bet.
+exp-crit-src-sg-sg,E,src-sg-sg,CRIMP-14-src-sg-sg,14,src,sg,sg,gram,3,It's Kevin who considers the producer of the film the safest bet.
+exp-crit-orc-pl-pl,G,orc-pl-pl,CRIMP-15-orc-pl-pl,15,orc,pl,pl,ungram,5,It's Karen who the ranger with the radios keep on hand during droughts.
+exp-crit-orc-pl-sg,H,orc-pl-sg,CRIMP-15-orc-pl-sg,15,orc,pl,sg,gram,5,It's Karen who the ranger with the radios keeps on hand during droughts.
+exp-crit-orc-sg-pl,A,orc-sg-pl,CRIMP-15-orc-sg-pl,15,orc,sg,pl,ungram,5,It's Karen who the ranger with the radio keep on hand during droughts.
+exp-crit-orc-sg-sg,B,orc-sg-sg,CRIMP-15-orc-sg-sg,15,orc,sg,sg,gram,5,It's Karen who the ranger with the radio keeps on hand during droughts.
+exp-crit-src-pl-pl,C,src-pl-pl,CRIMP-15-src-pl-pl,15,src,pl,pl,ungram,3,It's Karen who keep the ranger with the radios on hand during droughts.
+exp-crit-src-pl-sg,D,src-pl-sg,CRIMP-15-src-pl-sg,15,src,pl,sg,gram,3,It's Karen who keeps the ranger with the radios on hand during droughts.
+exp-crit-src-sg-pl,E,src-sg-pl,CRIMP-15-src-sg-pl,15,src,sg,pl,ungram,3,It's Karen who keep the ranger with the radio on hand during droughts.
+exp-crit-src-sg-sg,F,src-sg-sg,CRIMP-15-src-sg-sg,15,src,sg,sg,gram,3,It's Karen who keeps the ranger with the radio on hand during droughts.
+exp-crit-orc-pl-pl,H,orc-pl-pl,CRIMP-16-orc-pl-pl,16,orc,pl,pl,ungram,5,It's Steven who the worker with the grievances distrust the most.
+exp-crit-orc-pl-sg,A,orc-pl-sg,CRIMP-16-orc-pl-sg,16,orc,pl,sg,gram,5,It's Steven who the worker with the grievances distrusts the most.
+exp-crit-orc-sg-pl,B,orc-sg-pl,CRIMP-16-orc-sg-pl,16,orc,sg,pl,ungram,5,It's Steven who the worker with the grievance distrust the most.
+exp-crit-orc-sg-sg,C,orc-sg-sg,CRIMP-16-orc-sg-sg,16,orc,sg,sg,gram,5,It's Steven who the worker with the grievance distrusts the most.
+exp-crit-src-pl-pl,D,src-pl-pl,CRIMP-16-src-pl-pl,16,src,pl,pl,ungram,3,It's Steven who distrust the worker with the grievances the most.
+exp-crit-src-pl-sg,E,src-pl-sg,CRIMP-16-src-pl-sg,16,src,pl,sg,gram,3,It's Steven who distrusts the worker with the grievances the most.
+exp-crit-src-sg-pl,F,src-sg-pl,CRIMP-16-src-sg-pl,16,src,sg,pl,ungram,3,It's Steven who distrust the worker with the grievance the most.
+exp-crit-src-sg-sg,G,src-sg-sg,CRIMP-16-src-sg-sg,16,src,sg,sg,gram,3,It's Steven who distrusts the worker with the grievance the most.
+exp-crit-orc-pl-pl,A,orc-pl-pl,CRIMP-17-orc-pl-pl,17,orc,pl,pl,ungram,5,It's Lisa who the candidate with the endorsements consult every morning.
+exp-crit-orc-pl-sg,B,orc-pl-sg,CRIMP-17-orc-pl-sg,17,orc,pl,sg,gram,5,It's Lisa who the candidate with the endorsements consults every morning.
+exp-crit-orc-sg-pl,C,orc-sg-pl,CRIMP-17-orc-sg-pl,17,orc,sg,pl,ungram,5,It's Lisa who the candidate with the endorsement consult every morning.
+exp-crit-orc-sg-sg,D,orc-sg-sg,CRIMP-17-orc-sg-sg,17,orc,sg,sg,gram,5,It's Lisa who the candidate with the endorsement consults every morning.
+exp-crit-src-pl-pl,E,src-pl-pl,CRIMP-17-src-pl-pl,17,src,pl,pl,ungram,3,It's Lisa who consult the candidate with the endorsements every morning.
+exp-crit-src-pl-sg,F,src-pl-sg,CRIMP-17-src-pl-sg,17,src,pl,sg,gram,3,It's Lisa who consults the candidate with the endorsements every morning.
+exp-crit-src-sg-pl,G,src-sg-pl,CRIMP-17-src-sg-pl,17,src,sg,pl,ungram,3,It's Lisa who consult the candidate with the endorsement every morning.
+exp-crit-src-sg-sg,H,src-sg-sg,CRIMP-17-src-sg-sg,17,src,sg,sg,gram,3,It's Lisa who consults the candidate with the endorsement every morning.
+exp-crit-orc-pl-pl,B,orc-pl-pl,CRIMP-18-orc-pl-pl,18,orc,pl,pl,ungram,6,It's Mark who the landlord of the buildings strongly disapprove of.
+exp-crit-orc-pl-sg,C,orc-pl-sg,CRIMP-18-orc-pl-sg,18,orc,pl,sg,gram,6,It's Mark who the landlord of the buildings strongly disapproves of.
+exp-crit-orc-sg-pl,D,orc-sg-pl,CRIMP-18-orc-sg-pl,18,orc,sg,pl,ungram,6,It's Mark who the landlord of the building strongly disapprove of.
+exp-crit-orc-sg-sg,E,orc-sg-sg,CRIMP-18-orc-sg-sg,18,orc,sg,sg,gram,6,It's Mark who the landlord of the building strongly disapproves of.
+exp-crit-src-pl-pl,F,src-pl-pl,CRIMP-18-src-pl-pl,18,src,pl,pl,ungram,4,It's Mark who strongly disapprove of the landlord of the buildings.
+exp-crit-src-pl-sg,G,src-pl-sg,CRIMP-18-src-pl-sg,18,src,pl,sg,gram,4,It's Mark who strongly disapproves of the landlord of the buildings.
+exp-crit-src-sg-pl,H,src-sg-pl,CRIMP-18-src-sg-pl,18,src,sg,pl,ungram,4,It's Mark who strongly disapprove of the landlord of the building.
+exp-crit-src-sg-sg,A,src-sg-sg,CRIMP-18-src-sg-sg,18,src,sg,sg,gram,4,It's Mark who strongly disapproves of the landlord of the building.
+exp-crit-orc-pl-pl,C,orc-pl-pl,CRIMP-19-orc-pl-pl,19,orc,pl,pl,ungram,5,It's Amy who the prisoner with the scars find so entertaining.
+exp-crit-orc-pl-sg,D,orc-pl-sg,CRIMP-19-orc-pl-sg,19,orc,pl,sg,gram,5,It's Amy who the prisoner with the scars finds so entertaining.
+exp-crit-orc-sg-pl,E,orc-sg-pl,CRIMP-19-orc-sg-pl,19,orc,sg,pl,ungram,5,It's Amy who the prisoner with the scar find so entertaining.
+exp-crit-orc-sg-sg,F,orc-sg-sg,CRIMP-19-orc-sg-sg,19,orc,sg,sg,gram,5,It's Amy who the prisoner with the scar finds so entertaining.
+exp-crit-src-pl-pl,G,src-pl-pl,CRIMP-19-src-pl-pl,19,src,pl,pl,ungram,3,It's Amy who find the prisoner with the scars so entertaining.
+exp-crit-src-pl-sg,H,src-pl-sg,CRIMP-19-src-pl-sg,19,src,pl,sg,gram,3,It's Amy who finds the prisoner with the scars so entertaining.
+exp-crit-src-sg-pl,A,src-sg-pl,CRIMP-19-src-sg-pl,19,src,sg,pl,ungram,3,It's Amy who find the prisoner with the scar so entertaining.
+exp-crit-src-sg-sg,B,src-sg-sg,CRIMP-19-src-sg-sg,19,src,sg,sg,gram,3,It's Amy who finds the prisoner with the scar so entertaining.
+exp-crit-orc-pl-pl,D,orc-pl-pl,CRIMP-20-orc-pl-pl,20,orc,pl,pl,ungram,5,It's Paul who the smuggler with the boats employ in Brazil.
+exp-crit-orc-pl-sg,E,orc-pl-sg,CRIMP-20-orc-pl-sg,20,orc,pl,sg,gram,5,It's Paul who the smuggler with the boats employs in Brazil.
+exp-crit-orc-sg-pl,F,orc-sg-pl,CRIMP-20-orc-sg-pl,20,orc,sg,pl,ungram,5,It's Paul who the smuggler with the boat employ in Brazil.
+exp-crit-orc-sg-sg,G,orc-sg-sg,CRIMP-20-orc-sg-sg,20,orc,sg,sg,gram,5,It's Paul who the smuggler with the boat employs in Brazil.
+exp-crit-src-pl-pl,H,src-pl-pl,CRIMP-20-src-pl-pl,20,src,pl,pl,ungram,3,It's Paul who employ the smuggler with the boats in Brazil.
+exp-crit-src-pl-sg,A,src-pl-sg,CRIMP-20-src-pl-sg,20,src,pl,sg,gram,3,It's Paul who employs the smuggler with the boats in Brazil.
+exp-crit-src-sg-pl,B,src-sg-pl,CRIMP-20-src-sg-pl,20,src,sg,pl,ungram,3,It's Paul who employ the smuggler with the boat in Brazil.
+exp-crit-src-sg-sg,C,src-sg-sg,CRIMP-20-src-sg-sg,20,src,sg,sg,gram,3,It's Paul who employs the smuggler with the boat in Brazil.
+exp-crit-orc-pl-pl,E,orc-pl-pl,CRIMP-21-orc-pl-pl,21,orc,pl,pl,ungram,5,It's Anna who the teacher at the academies tutor in algebra.
+exp-crit-orc-pl-sg,F,orc-pl-sg,CRIMP-21-orc-pl-sg,21,orc,pl,sg,gram,5,It's Anna who the teacher at the academies tutors in algebra.
+exp-crit-orc-sg-pl,G,orc-sg-pl,CRIMP-21-orc-sg-pl,21,orc,sg,pl,ungram,5,It's Anna who the teacher at the academy tutor in algebra.
+exp-crit-orc-sg-sg,H,orc-sg-sg,CRIMP-21-orc-sg-sg,21,orc,sg,sg,gram,5,It's Anna who the teacher at the academy tutors in algebra.
+exp-crit-src-pl-pl,A,src-pl-pl,CRIMP-21-src-pl-pl,21,src,pl,pl,ungram,3,It's Anna who tutor the teacher at the academies in algebra.
+exp-crit-src-pl-sg,B,src-pl-sg,CRIMP-21-src-pl-sg,21,src,pl,sg,gram,3,It's Anna who tutors the teacher at the academies in algebra.
+exp-crit-src-sg-pl,C,src-sg-pl,CRIMP-21-src-sg-pl,21,src,sg,pl,ungram,3,It's Anna who tutor the teacher at the academy in algebra.
+exp-crit-src-sg-sg,D,src-sg-sg,CRIMP-21-src-sg-sg,21,src,sg,sg,gram,3,It's Anna who tutors the teacher at the academy in algebra.
+exp-crit-orc-pl-pl,F,orc-pl-pl,CRIMP-22-orc-pl-pl,22,orc,pl,pl,ungram,5,It's Daniel who the critic of the plays complain about.
+exp-crit-orc-pl-sg,G,orc-pl-sg,CRIMP-22-orc-pl-sg,22,orc,pl,sg,gram,5,It's Daniel who the critic of the plays complains about.
+exp-crit-orc-sg-pl,H,orc-sg-pl,CRIMP-22-orc-sg-pl,22,orc,sg,pl,ungram,5,It's Daniel who the critic of the play complain about.
+exp-crit-orc-sg-sg,A,orc-sg-sg,CRIMP-22-orc-sg-sg,22,orc,sg,sg,gram,5,It's Daniel who the critic of the play complains about.
+exp-crit-src-pl-pl,B,src-pl-pl,CRIMP-22-src-pl-pl,22,src,pl,pl,ungram,3,It's Daniel who complain about the critic of the plays.
+exp-crit-src-pl-sg,C,src-pl-sg,CRIMP-22-src-pl-sg,22,src,pl,sg,gram,3,It's Daniel who complains about the critic of the plays.
+exp-crit-src-sg-pl,D,src-sg-pl,CRIMP-22-src-sg-pl,22,src,sg,pl,ungram,3,It's Daniel who complain about the critic of the play.
+exp-crit-src-sg-sg,E,src-sg-sg,CRIMP-22-src-sg-sg,22,src,sg,sg,gram,3,It's Daniel who complains about the critic of the play.
+exp-crit-orc-pl-pl,G,orc-pl-pl,CRIMP-23-orc-pl-pl,23,orc,pl,pl,ungram,5,It's Claire who the choreographer of the musicals work with.
+exp-crit-orc-pl-sg,H,orc-pl-sg,CRIMP-23-orc-pl-sg,23,orc,pl,sg,gram,5,It's Claire who the choreographer of the musicals works with.
+exp-crit-orc-sg-pl,A,orc-sg-pl,CRIMP-23-orc-sg-pl,23,orc,sg,pl,ungram,5,It's Claire who the choreographer of the musical work with.
+exp-crit-orc-sg-sg,B,orc-sg-sg,CRIMP-23-orc-sg-sg,23,orc,sg,sg,gram,5,It's Claire who the choreographer of the musical works with.
+exp-crit-src-pl-pl,C,src-pl-pl,CRIMP-23-src-pl-pl,23,src,pl,pl,ungram,3,It's Claire who work with the choreographer of the musicals.
+exp-crit-src-pl-sg,D,src-pl-sg,CRIMP-23-src-pl-sg,23,src,pl,sg,gram,3,It's Claire who works with the choreographer of the musicals.
+exp-crit-src-sg-pl,E,src-sg-pl,CRIMP-23-src-sg-pl,23,src,sg,pl,ungram,3,It's Claire who work with the choreographer of the musical.
+exp-crit-src-sg-sg,F,src-sg-sg,CRIMP-23-src-sg-sg,23,src,sg,sg,gram,3,It's Claire who works with the choreographer of the musical.
+exp-crit-orc-pl-pl,H,orc-pl-pl,CRIMP-24-orc-pl-pl,24,orc,pl,pl,ungram,5,It's Eric who the survivor of the storms meet with weekly.
+exp-crit-orc-pl-sg,A,orc-pl-sg,CRIMP-24-orc-pl-sg,24,orc,pl,sg,gram,5,It's Eric who the survivor of the storms meets with weekly.
+exp-crit-orc-sg-pl,B,orc-sg-pl,CRIMP-24-orc-sg-pl,24,orc,sg,pl,ungram,5,It's Eric who the survivor of the storm meet with weekly.
+exp-crit-orc-sg-sg,C,orc-sg-sg,CRIMP-24-orc-sg-sg,24,orc,sg,sg,gram,5,It's Eric who the survivor of the storm meets with weekly.
+exp-crit-src-pl-pl,D,src-pl-pl,CRIMP-24-src-pl-pl,24,src,pl,pl,ungram,3,It's Eric who meet with the survivor of the storms weekly.
+exp-crit-src-pl-sg,E,src-pl-sg,CRIMP-24-src-pl-sg,24,src,pl,sg,gram,3,It's Eric who meets with the survivor of the storms weekly.
+exp-crit-src-sg-pl,F,src-sg-pl,CRIMP-24-src-sg-pl,24,src,sg,pl,ungram,3,It's Eric who meet with the survivor of the storm weekly.
+exp-crit-src-sg-sg,G,src-sg-sg,CRIMP-24-src-sg-sg,24,src,sg,sg,gram,3,It's Eric who meets with the survivor of the storm weekly.
+exp-crit-orc-pl-pl,A,orc-pl-pl,CRIMP-25-orc-pl-pl,25,orc,pl,pl,ungram,5,It's Emma who the donor behind the grants support so generously.
+exp-crit-orc-pl-sg,B,orc-pl-sg,CRIMP-25-orc-pl-sg,25,orc,pl,sg,gram,5,It's Emma who the donor behind the grants supports so generously.
+exp-crit-orc-sg-pl,C,orc-sg-pl,CRIMP-25-orc-sg-pl,25,orc,sg,pl,ungram,5,It's Emma who the donor behind the grant support so generously.
+exp-crit-orc-sg-sg,D,orc-sg-sg,CRIMP-25-orc-sg-sg,25,orc,sg,sg,gram,5,It's Emma who the donor behind the grant supports so generously.
+exp-crit-src-pl-pl,E,src-pl-pl,CRIMP-25-src-pl-pl,25,src,pl,pl,ungram,3,It's Emma who support the donor behind the grants so generously.
+exp-crit-src-pl-sg,F,src-pl-sg,CRIMP-25-src-pl-sg,25,src,pl,sg,gram,3,It's Emma who supports the donor behind the grants so generously.
+exp-crit-src-sg-pl,G,src-sg-pl,CRIMP-25-src-sg-pl,25,src,sg,pl,ungram,3,It's Emma who support the donor behind the grant so generously.
+exp-crit-src-sg-sg,H,src-sg-sg,CRIMP-25-src-sg-sg,25,src,sg,sg,gram,3,It's Emma who supports the donor behind the grant so generously.
+exp-crit-orc-pl-pl,B,orc-pl-pl,CRIMP-26-orc-pl-pl,26,orc,pl,pl,ungram,5,It's Peter who the reviewer at the magazines praise so highly.
+exp-crit-orc-pl-sg,C,orc-pl-sg,CRIMP-26-orc-pl-sg,26,orc,pl,sg,gram,5,It's Peter who the reviewer at the magazines praises so highly.
+exp-crit-orc-sg-pl,D,orc-sg-pl,CRIMP-26-orc-sg-pl,26,orc,sg,pl,ungram,5,It's Peter who the reviewer at the magazine praise so highly.
+exp-crit-orc-sg-sg,E,orc-sg-sg,CRIMP-26-orc-sg-sg,26,orc,sg,sg,gram,5,It's Peter who the reviewer at the magazine praises so highly.
+exp-crit-src-pl-pl,F,src-pl-pl,CRIMP-26-src-pl-pl,26,src,pl,pl,ungram,3,It's Peter who praise the reviewer at the magazines so highly.
+exp-crit-src-pl-sg,G,src-pl-sg,CRIMP-26-src-pl-sg,26,src,pl,sg,gram,3,It's Peter who praises the reviewer at the magazines so highly.
+exp-crit-src-sg-pl,H,src-sg-pl,CRIMP-26-src-sg-pl,26,src,sg,pl,ungram,3,It's Peter who praise the reviewer at the magazine so highly.
+exp-crit-src-sg-sg,A,src-sg-sg,CRIMP-26-src-sg-sg,26,src,sg,sg,gram,3,It's Peter who praises the reviewer at the magazine so highly.
+exp-crit-orc-pl-pl,C,orc-pl-pl,CRIMP-27-orc-pl-pl,27,orc,pl,pl,ungram,5,It's Grace who the librarian at the archives recommend most often.
+exp-crit-orc-pl-sg,D,orc-pl-sg,CRIMP-27-orc-pl-sg,27,orc,pl,sg,gram,5,It's Grace who the librarian at the archives recommends most often.
+exp-crit-orc-sg-pl,E,orc-sg-pl,CRIMP-27-orc-sg-pl,27,orc,sg,pl,ungram,5,It's Grace who the librarian at the archive recommend most often.
+exp-crit-orc-sg-sg,F,orc-sg-sg,CRIMP-27-orc-sg-sg,27,orc,sg,sg,gram,5,It's Grace who the librarian at the archive recommends most often.
+exp-crit-src-pl-pl,G,src-pl-pl,CRIMP-27-src-pl-pl,27,src,pl,pl,ungram,3,It's Grace who recommend the librarian at the archives most often.
+exp-crit-src-pl-sg,H,src-pl-sg,CRIMP-27-src-pl-sg,27,src,pl,sg,gram,3,It's Grace who recommends the librarian at the archives most often.
+exp-crit-src-sg-pl,A,src-sg-pl,CRIMP-27-src-sg-pl,27,src,sg,pl,ungram,3,It's Grace who recommend the librarian at the archive most often.
+exp-crit-src-sg-sg,B,src-sg-sg,CRIMP-27-src-sg-sg,27,src,sg,sg,gram,3,It's Grace who recommends the librarian at the archive most often.
+exp-crit-orc-pl-pl,D,orc-pl-pl,CRIMP-28-orc-pl-pl,28,orc,pl,pl,ungram,5,It's Thomas who the listener of the podcasts trust the most.
+exp-crit-orc-pl-sg,E,orc-pl-sg,CRIMP-28-orc-pl-sg,28,orc,pl,sg,gram,5,It's Thomas who the listener of the podcasts trusts the most.
+exp-crit-orc-sg-pl,F,orc-sg-pl,CRIMP-28-orc-sg-pl,28,orc,sg,pl,ungram,5,It's Thomas who the listener of the podcast trust the most.
+exp-crit-orc-sg-sg,G,orc-sg-sg,CRIMP-28-orc-sg-sg,28,orc,sg,sg,gram,5,It's Thomas who the listener of the podcast trusts the most.
+exp-crit-src-pl-pl,H,src-pl-pl,CRIMP-28-src-pl-pl,28,src,pl,pl,ungram,3,It's Thomas who trust the listener of the podcasts the most.
+exp-crit-src-pl-sg,A,src-pl-sg,CRIMP-28-src-pl-sg,28,src,pl,sg,gram,3,It's Thomas who trusts the listener of the podcasts the most.
+exp-crit-src-sg-pl,B,src-sg-pl,CRIMP-28-src-sg-pl,28,src,sg,pl,ungram,3,It's Thomas who trust the listener of the podcast the most.
+exp-crit-src-sg-sg,C,src-sg-sg,CRIMP-28-src-sg-sg,28,src,sg,sg,gram,3,It's Thomas who trusts the listener of the podcast the most.
+exp-crit-orc-pl-pl,E,orc-pl-pl,CRIMP-29-orc-pl-pl,29,orc,pl,pl,ungram,5,It's Helen who the editor of the journals appreciate the most.
+exp-crit-orc-pl-sg,F,orc-pl-sg,CRIMP-29-orc-pl-sg,29,orc,pl,sg,gram,5,It's Helen who the editor of the journals appreciates the most.
+exp-crit-orc-sg-pl,G,orc-sg-pl,CRIMP-29-orc-sg-pl,29,orc,sg,pl,ungram,5,It's Helen who the editor of the journal appreciate the most.
+exp-crit-orc-sg-sg,H,orc-sg-sg,CRIMP-29-orc-sg-sg,29,orc,sg,sg,gram,5,It's Helen who the editor of the journal appreciates the most.
+exp-crit-src-pl-pl,A,src-pl-pl,CRIMP-29-src-pl-pl,29,src,pl,pl,ungram,3,It's Helen who appreciate the editor of the journals the most.
+exp-crit-src-pl-sg,B,src-pl-sg,CRIMP-29-src-pl-sg,29,src,pl,sg,gram,3,It's Helen who appreciates the editor of the journals the most.
+exp-crit-src-sg-pl,C,src-sg-pl,CRIMP-29-src-sg-pl,29,src,sg,pl,ungram,3,It's Helen who appreciate the editor of the journal the most.
+exp-crit-src-sg-sg,D,src-sg-sg,CRIMP-29-src-sg-sg,29,src,sg,sg,gram,3,It's Helen who appreciates the editor of the journal the most.
+exp-crit-orc-pl-pl,F,orc-pl-pl,CRIMP-30-orc-pl-pl,30,orc,pl,pl,ungram,5,It's Andrew who the kid with the stickers admire passionately.
+exp-crit-orc-pl-sg,G,orc-pl-sg,CRIMP-30-orc-pl-sg,30,orc,pl,sg,gram,5,It's Andrew who the kid with the stickers admires passionately.
+exp-crit-orc-sg-pl,H,orc-sg-pl,CRIMP-30-orc-sg-pl,30,orc,sg,pl,ungram,5,It's Andrew who the kid with the sticker admire passionately.
+exp-crit-orc-sg-sg,A,orc-sg-sg,CRIMP-30-orc-sg-sg,30,orc,sg,sg,gram,5,It's Andrew who the kid with the sticker admires passionately.
+exp-crit-src-pl-pl,B,src-pl-pl,CRIMP-30-src-pl-pl,30,src,pl,pl,ungram,3,It's Andrew who admire the kid with the stickers passionately.
+exp-crit-src-pl-sg,C,src-pl-sg,CRIMP-30-src-pl-sg,30,src,pl,sg,gram,3,It's Andrew who admires the kid with the stickers passionately.
+exp-crit-src-sg-pl,D,src-sg-pl,CRIMP-30-src-sg-pl,30,src,sg,pl,ungram,3,It's Andrew who admire the kid with the sticker passionately.
+exp-crit-src-sg-sg,E,src-sg-sg,CRIMP-30-src-sg-sg,30,src,sg,sg,gram,3,It's Andrew who admires the kid with the sticker passionately.
+exp-crit-orc-pl-pl,G,orc-pl-pl,CRIMP-31-orc-pl-pl,31,orc,pl,pl,ungram,5,It's Jessica who the rancher from the prairies like the most.
+exp-crit-orc-pl-sg,H,orc-pl-sg,CRIMP-31-orc-pl-sg,31,orc,pl,sg,gram,5,It's Jessica who the rancher from the prairies likes the most.
+exp-crit-orc-sg-pl,A,orc-sg-pl,CRIMP-31-orc-sg-pl,31,orc,sg,pl,ungram,5,It's Jessica who the rancher from the prairie like the most.
+exp-crit-orc-sg-sg,B,orc-sg-sg,CRIMP-31-orc-sg-sg,31,orc,sg,sg,gram,5,It's Jessica who the rancher from the prairie likes the most.
+exp-crit-src-pl-pl,C,src-pl-pl,CRIMP-31-src-pl-pl,31,src,pl,pl,ungram,3,It's Jessica who like the rancher from the prairies the most.
+exp-crit-src-pl-sg,D,src-pl-sg,CRIMP-31-src-pl-sg,31,src,pl,sg,gram,3,It's Jessica who likes the rancher from the prairies the most.
+exp-crit-src-sg-pl,E,src-sg-pl,CRIMP-31-src-sg-pl,31,src,sg,pl,ungram,3,It's Jessica who like the rancher from the prairie the most.
+exp-crit-src-sg-sg,F,src-sg-sg,CRIMP-31-src-sg-sg,31,src,sg,sg,gram,3,It's Jessica who likes the rancher from the prairie the most.
+exp-crit-orc-pl-pl,H,orc-pl-pl,CRIMP-32-orc-pl-pl,32,orc,pl,pl,ungram,5,It's Gregory who the boss of the departments give the most work.
+exp-crit-orc-pl-sg,A,orc-pl-sg,CRIMP-32-orc-pl-sg,32,orc,pl,sg,gram,5,It's Gregory who the boss of the departments gives the most work.
+exp-crit-orc-sg-pl,B,orc-sg-pl,CRIMP-32-orc-sg-pl,32,orc,sg,pl,ungram,5,It's Gregory who the boss of the department give the most work.
+exp-crit-orc-sg-sg,C,orc-sg-sg,CRIMP-32-orc-sg-sg,32,orc,sg,sg,gram,5,It's Gregory who the boss of the department gives the most work.
+exp-crit-src-pl-pl,D,src-pl-pl,CRIMP-32-src-pl-pl,32,src,pl,pl,ungram,3,It's Gregory who give the boss of the departments the most work.
+exp-crit-src-pl-sg,E,src-pl-sg,CRIMP-32-src-pl-sg,32,src,pl,sg,gram,3,It's Gregory who gives the boss of the departments the most work.
+exp-crit-src-sg-pl,F,src-sg-pl,CRIMP-32-src-sg-pl,32,src,sg,pl,ungram,3,It's Gregory who give the boss of the department the most work.
+exp-crit-src-sg-sg,G,src-sg-sg,CRIMP-32-src-sg-sg,32,src,sg,sg,gram,3,It's Gregory who gives the boss of the department the most work.
+exp-crit-orc-pl-pl,A,orc-pl-pl,CRIMP-33-orc-pl-pl,33,orc,pl,pl,ungram,5,It's Kate who the gourmet with the blogs visit regularly.
+exp-crit-orc-pl-sg,B,orc-pl-sg,CRIMP-33-orc-pl-sg,33,orc,pl,sg,gram,5,It's Kate who the gourmet with the blogs visits regularly.
+exp-crit-orc-sg-pl,C,orc-sg-pl,CRIMP-33-orc-sg-pl,33,orc,sg,pl,ungram,5,It's Kate who the gourmet with the blog visit regularly.
+exp-crit-orc-sg-sg,D,orc-sg-sg,CRIMP-33-orc-sg-sg,33,orc,sg,sg,gram,5,It's Kate who the gourmet with the blog visits regularly.
+exp-crit-src-pl-pl,E,src-pl-pl,CRIMP-33-src-pl-pl,33,src,pl,pl,ungram,3,It's Kate who visit the gourmet with the blogs regularly.
+exp-crit-src-pl-sg,F,src-pl-sg,CRIMP-33-src-pl-sg,33,src,pl,sg,gram,3,It's Kate who visits the gourmet with the blogs regularly.
+exp-crit-src-sg-pl,G,src-sg-pl,CRIMP-33-src-sg-pl,33,src,sg,pl,ungram,3,It's Kate who visit the gourmet with the blog regularly.
+exp-crit-src-sg-sg,H,src-sg-sg,CRIMP-33-src-sg-sg,33,src,sg,sg,gram,3,It's Kate who visits the gourmet with the blog regularly.
+exp-crit-orc-pl-pl,B,orc-pl-pl,CRIMP-34-orc-pl-pl,34,orc,pl,pl,ungram,5,It's Henry who the recruiter for the programs watch from the bleachers every weekend.
+exp-crit-orc-pl-sg,C,orc-pl-sg,CRIMP-34-orc-pl-sg,34,orc,pl,sg,gram,5,It's Henry who the recruiter for the programs watches from the bleachers every weekend.
+exp-crit-orc-sg-pl,D,orc-sg-pl,CRIMP-34-orc-sg-pl,34,orc,sg,pl,ungram,5,It's Henry who the recruiter for the program watch from the bleachers every weekend.
+exp-crit-orc-sg-sg,E,orc-sg-sg,CRIMP-34-orc-sg-sg,34,orc,sg,sg,gram,5,It's Henry who the recruiter for the program watches from the bleachers every weekend.
+exp-crit-src-pl-pl,F,src-pl-pl,CRIMP-34-src-pl-pl,34,src,pl,pl,ungram,3,It's Henry who watch the recruiter for the programs from the bleachers every weekend.
+exp-crit-src-pl-sg,G,src-pl-sg,CRIMP-34-src-pl-sg,34,src,pl,sg,gram,3,It's Henry who watches the recruiter for the programs from the bleachers every weekend.
+exp-crit-src-sg-pl,H,src-sg-pl,CRIMP-34-src-sg-pl,34,src,sg,pl,ungram,3,It's Henry who watch the recruiter for the program from the bleachers every weekend.
+exp-crit-src-sg-sg,A,src-sg-sg,CRIMP-34-src-sg-sg,34,src,sg,sg,gram,3,It's Henry who watches the recruiter for the program from the bleachers every weekend.
+exp-crit-orc-pl-pl,C,orc-pl-pl,CRIMP-35-orc-pl-pl,35,orc,pl,pl,ungram,5,It's Linda who the host of the galas recommend to friends.
+exp-crit-orc-pl-sg,D,orc-pl-sg,CRIMP-35-orc-pl-sg,35,orc,pl,sg,gram,5,It's Linda who the host of the galas recommends to friends.
+exp-crit-orc-sg-pl,E,orc-sg-pl,CRIMP-35-orc-sg-pl,35,orc,sg,pl,ungram,5,It's Linda who the host of the gala recommend to friends.
+exp-crit-orc-sg-sg,F,orc-sg-sg,CRIMP-35-orc-sg-sg,35,orc,sg,sg,gram,5,It's Linda who the host of the gala recommends to friends.
+exp-crit-src-pl-pl,G,src-pl-pl,CRIMP-35-src-pl-pl,35,src,pl,pl,ungram,3,It's Linda who recommend the host of the galas to friends.
+exp-crit-src-pl-sg,H,src-pl-sg,CRIMP-35-src-pl-sg,35,src,pl,sg,gram,3,It's Linda who recommends the host of the galas to friends.
+exp-crit-src-sg-pl,A,src-sg-pl,CRIMP-35-src-sg-pl,35,src,sg,pl,ungram,3,It's Linda who recommend the host of the gala to friends.
+exp-crit-src-sg-sg,B,src-sg-sg,CRIMP-35-src-sg-sg,35,src,sg,sg,gram,3,It's Linda who recommends the host of the gala to friends.
+exp-crit-orc-pl-pl,D,orc-pl-pl,CRIMP-36-orc-pl-pl,36,orc,pl,pl,ungram,5,It's Jason who the psychologist from the clinics assign to important projects.
+exp-crit-orc-pl-sg,E,orc-pl-sg,CRIMP-36-orc-pl-sg,36,orc,pl,sg,gram,5,It's Jason who the psychologist from the clinics assigns to important projects.
+exp-crit-orc-sg-pl,F,orc-sg-pl,CRIMP-36-orc-sg-pl,36,orc,sg,pl,ungram,5,It's Jason who the psychologist from the clinic assign to important projects.
+exp-crit-orc-sg-sg,G,orc-sg-sg,CRIMP-36-orc-sg-sg,36,orc,sg,sg,gram,5,It's Jason who the psychologist from the clinic assigns to important projects.
+exp-crit-src-pl-pl,H,src-pl-pl,CRIMP-36-src-pl-pl,36,src,pl,pl,ungram,3,It's Jason who assign the psychologist from the clinics to important projects.
+exp-crit-src-pl-sg,A,src-pl-sg,CRIMP-36-src-pl-sg,36,src,pl,sg,gram,3,It's Jason who assigns the psychologist from the clinics to important projects.
+exp-crit-src-sg-pl,B,src-sg-pl,CRIMP-36-src-sg-pl,36,src,sg,pl,ungram,3,It's Jason who assign the psychologist from the clinic to important projects.
+exp-crit-src-sg-sg,C,src-sg-sg,CRIMP-36-src-sg-sg,36,src,sg,sg,gram,3,It's Jason who assigns the psychologist from the clinic to important projects.
+exp-crit-orc-pl-pl,E,orc-pl-pl,CRIMP-37-orc-pl-pl,37,orc,pl,pl,ungram,5,It's Maria who the nurse on the floors prefer to work with.
+exp-crit-orc-pl-sg,F,orc-pl-sg,CRIMP-37-orc-pl-sg,37,orc,pl,sg,gram,5,It's Maria who the nurse on the floors prefers to work with.
+exp-crit-orc-sg-pl,G,orc-sg-pl,CRIMP-37-orc-sg-pl,37,orc,sg,pl,ungram,5,It's Maria who the nurse on the floor prefer to work with.
+exp-crit-orc-sg-sg,H,orc-sg-sg,CRIMP-37-orc-sg-sg,37,orc,sg,sg,gram,5,It's Maria who the nurse on the floor prefers to work with.
+exp-crit-src-pl-pl,A,src-pl-pl,CRIMP-37-src-pl-pl,37,src,pl,pl,ungram,3,It's Maria who prefer to work with the nurse on the floors.
+exp-crit-src-pl-sg,B,src-pl-sg,CRIMP-37-src-pl-sg,37,src,pl,sg,gram,3,It's Maria who prefers to work with the nurse on the floors.
+exp-crit-src-sg-pl,C,src-sg-pl,CRIMP-37-src-sg-pl,37,src,sg,pl,ungram,3,It's Maria who prefer to work with the nurse on the floor.
+exp-crit-src-sg-sg,D,src-sg-sg,CRIMP-37-src-sg-sg,37,src,sg,sg,gram,3,It's Maria who prefers to work with the nurse on the floor.
+exp-crit-orc-pl-pl,F,orc-pl-pl,CRIMP-38-orc-pl-pl,38,orc,pl,pl,ungram,5,It's Adam who the bully with the tattoos tease during lunch.
+exp-crit-orc-pl-sg,G,orc-pl-sg,CRIMP-38-orc-pl-sg,38,orc,pl,sg,gram,5,It's Adam who the bully with the tattoos teases during lunch.
+exp-crit-orc-sg-pl,H,orc-sg-pl,CRIMP-38-orc-sg-pl,38,orc,sg,pl,ungram,5,It's Adam who the bully with the tattoo tease during lunch.
+exp-crit-orc-sg-sg,A,orc-sg-sg,CRIMP-38-orc-sg-sg,38,orc,sg,sg,gram,5,It's Adam who the bully with the tattoo teases during lunch.
+exp-crit-src-pl-pl,B,src-pl-pl,CRIMP-38-src-pl-pl,38,src,pl,pl,ungram,3,It's Adam who tease the bully with the tattoos during lunch.
+exp-crit-src-pl-sg,C,src-pl-sg,CRIMP-38-src-pl-sg,38,src,pl,sg,gram,3,It's Adam who teases the bully with the tattoos during lunch.
+exp-crit-src-sg-pl,D,src-sg-pl,CRIMP-38-src-sg-pl,38,src,sg,pl,ungram,3,It's Adam who tease the bully with the tattoo during lunch.
+exp-crit-src-sg-sg,E,src-sg-sg,CRIMP-38-src-sg-sg,38,src,sg,sg,gram,3,It's Adam who teases the bully with the tattoo during lunch.
+exp-crit-orc-pl-pl,G,orc-pl-pl,CRIMP-39-orc-pl-pl,39,orc,pl,pl,ungram,5,It's Nancy who the scientist with the telescopes discuss in the video.
+exp-crit-orc-pl-sg,H,orc-pl-sg,CRIMP-39-orc-pl-sg,39,orc,pl,sg,gram,5,It's Nancy who the scientist with the telescopes discusses in the video.
+exp-crit-orc-sg-pl,A,orc-sg-pl,CRIMP-39-orc-sg-pl,39,orc,sg,pl,ungram,5,It's Nancy who the scientist with the telescope discuss in the video.
+exp-crit-orc-sg-sg,B,orc-sg-sg,CRIMP-39-orc-sg-sg,39,orc,sg,sg,gram,5,It's Nancy who the scientist with the telescope discusses in the video.
+exp-crit-src-pl-pl,C,src-pl-pl,CRIMP-39-src-pl-pl,39,src,pl,pl,ungram,3,It's Nancy who discuss the scientist with the telescopes in the video.
+exp-crit-src-pl-sg,D,src-pl-sg,CRIMP-39-src-pl-sg,39,src,pl,sg,gram,3,It's Nancy who discusses the scientist with the telescopes in the video.
+exp-crit-src-sg-pl,E,src-sg-pl,CRIMP-39-src-sg-pl,39,src,sg,pl,ungram,3,It's Nancy who discuss the scientist with the telescope in the video.
+exp-crit-src-sg-sg,F,src-sg-sg,CRIMP-39-src-sg-sg,39,src,sg,sg,gram,3,It's Nancy who discusses the scientist with the telescope in the video.
+exp-crit-orc-pl-pl,H,orc-pl-pl,CRIMP-40-orc-pl-pl,40,orc,pl,pl,ungram,5,It's Nathan who the diplomat with the proposals trust the most.
+exp-crit-orc-pl-sg,A,orc-pl-sg,CRIMP-40-orc-pl-sg,40,orc,pl,sg,gram,5,It's Nathan who the diplomat with the proposals trusts the most.
+exp-crit-orc-sg-pl,B,orc-sg-pl,CRIMP-40-orc-sg-pl,40,orc,sg,pl,ungram,5,It's Nathan who the diplomat with the proposal trust the most.
+exp-crit-orc-sg-sg,C,orc-sg-sg,CRIMP-40-orc-sg-sg,40,orc,sg,sg,gram,5,It's Nathan who the diplomat with the proposal trusts the most.
+exp-crit-src-pl-pl,D,src-pl-pl,CRIMP-40-src-pl-pl,40,src,pl,pl,ungram,3,It's Nathan who trust the diplomat with the proposals the most.
+exp-crit-src-pl-sg,E,src-pl-sg,CRIMP-40-src-pl-sg,40,src,pl,sg,gram,3,It's Nathan who trusts the diplomat with the proposals the most.
+exp-crit-src-sg-pl,F,src-sg-pl,CRIMP-40-src-sg-pl,40,src,sg,pl,ungram,3,It's Nathan who trust the diplomat with the proposal the most.
+exp-crit-src-sg-sg,G,src-sg-sg,CRIMP-40-src-sg-sg,40,src,sg,sg,gram,3,It's Nathan who trusts the diplomat with the proposal the most.
+exp-crit-orc-pl-pl,A,orc-pl-pl,CRIMP-41-orc-pl-pl,41,orc,pl,pl,ungram,5,It's Olivia who the voter with the petitions listen to patiently at all the rallies.
+exp-crit-orc-pl-sg,B,orc-pl-sg,CRIMP-41-orc-pl-sg,41,orc,pl,sg,gram,5,It's Olivia who the voter with the petitions listens to patiently at all the rallies.
+exp-crit-orc-sg-pl,C,orc-sg-pl,CRIMP-41-orc-sg-pl,41,orc,sg,pl,ungram,5,It's Olivia who the voter with the petition listen to patiently at all the rallies.
+exp-crit-orc-sg-sg,D,orc-sg-sg,CRIMP-41-orc-sg-sg,41,orc,sg,sg,gram,5,It's Olivia who the voter with the petition listens to patiently at all the rallies.
+exp-crit-src-pl-pl,E,src-pl-pl,CRIMP-41-src-pl-pl,41,src,pl,pl,ungram,3,It's Olivia who listen patiently to the voter with the petitions at all the rallies.
+exp-crit-src-pl-sg,F,src-pl-sg,CRIMP-41-src-pl-sg,41,src,pl,sg,gram,3,It's Olivia who listens patiently to the voter with the petitions at all the rallies.
+exp-crit-src-sg-pl,G,src-sg-pl,CRIMP-41-src-sg-pl,41,src,sg,pl,ungram,3,It's Olivia who listen patiently to the voter with the petition at all the rallies.
+exp-crit-src-sg-sg,H,src-sg-sg,CRIMP-41-src-sg-sg,41,src,sg,sg,gram,3,It's Olivia who listens patiently to the voter with the petition at all the rallies.
+exp-crit-orc-pl-pl,B,orc-pl-pl,CRIMP-42-orc-pl-pl,42,orc,pl,pl,ungram,5,It's Richard who the criminal with the aliases fear the most.
+exp-crit-orc-pl-sg,C,orc-pl-sg,CRIMP-42-orc-pl-sg,42,orc,pl,sg,gram,5,It's Richard who the criminal with the aliases fears the most.
+exp-crit-orc-sg-pl,D,orc-sg-pl,CRIMP-42-orc-sg-pl,42,orc,sg,pl,ungram,5,It's Richard who the criminal with the alias fear the most.
+exp-crit-orc-sg-sg,E,orc-sg-sg,CRIMP-42-orc-sg-sg,42,orc,sg,sg,gram,5,It's Richard who the criminal with the alias fears the most.
+exp-crit-src-pl-pl,F,src-pl-pl,CRIMP-42-src-pl-pl,42,src,pl,pl,ungram,3,It's Richard who fear the criminal with the aliases the most.
+exp-crit-src-pl-sg,G,src-pl-sg,CRIMP-42-src-pl-sg,42,src,pl,sg,gram,3,It's Richard who fears the criminal with the aliases the most.
+exp-crit-src-sg-pl,H,src-sg-pl,CRIMP-42-src-sg-pl,42,src,sg,pl,ungram,3,It's Richard who fear the criminal with the alias the most.
+exp-crit-src-sg-sg,A,src-sg-sg,CRIMP-42-src-sg-sg,42,src,sg,sg,gram,3,It's Richard who fears the criminal with the alias the most.
+exp-crit-orc-pl-pl,C,orc-pl-pl,CRIMP-43-orc-pl-pl,43,orc,pl,pl,ungram,5,It's Susan who the patron with the coupons gossip with after the appointment.
+exp-crit-orc-pl-sg,D,orc-pl-sg,CRIMP-43-orc-pl-sg,43,orc,pl,sg,gram,5,It's Susan who the patron with the coupons gossips with after the appointment.
+exp-crit-orc-sg-pl,E,orc-sg-pl,CRIMP-43-orc-sg-pl,43,orc,sg,pl,ungram,5,It's Susan who the patron with the coupon gossip with after the appointment.
+exp-crit-orc-sg-sg,F,orc-sg-sg,CRIMP-43-orc-sg-sg,43,orc,sg,sg,gram,5,It's Susan who the patron with the coupon gossips with after the appointment.
+exp-crit-src-pl-pl,G,src-pl-pl,CRIMP-43-src-pl-pl,43,src,pl,pl,ungram,3,It's Susan who gossip with the patron with the coupons after the appointment.
+exp-crit-src-pl-sg,H,src-pl-sg,CRIMP-43-src-pl-sg,43,src,pl,sg,gram,3,It's Susan who gossips with the patron with the coupons after the appointment.
+exp-crit-src-sg-pl,A,src-sg-pl,CRIMP-43-src-sg-pl,43,src,sg,pl,ungram,3,It's Susan who gossip with the patron with the coupon after the appointment.
+exp-crit-src-sg-sg,B,src-sg-sg,CRIMP-43-src-sg-sg,43,src,sg,sg,gram,3,It's Susan who gossips with the patron with the coupon after the appointment.
+exp-crit-orc-pl-pl,D,orc-pl-pl,CRIMP-44-orc-pl-pl,44,orc,pl,pl,ungram,5,It's Scott who the fan with the jerseys hold the greatest confidence in.
+exp-crit-orc-pl-sg,E,orc-pl-sg,CRIMP-44-orc-pl-sg,44,orc,pl,sg,gram,5,It's Scott who the fan with the jerseys holds the greatest confidence in.
+exp-crit-orc-sg-pl,F,orc-sg-pl,CRIMP-44-orc-sg-pl,44,orc,sg,pl,ungram,5,It's Scott who the fan with the jersey hold the greatest confidence in.
+exp-crit-orc-sg-sg,G,orc-sg-sg,CRIMP-44-orc-sg-sg,44,orc,sg,sg,gram,5,It's Scott who the fan with the jersey holds the greatest confidence in.
+exp-crit-src-pl-pl,H,src-pl-pl,CRIMP-44-src-pl-pl,44,src,pl,pl,ungram,3,It's Scott who hold the greatest confidence in the fan with the jerseys.
+exp-crit-src-pl-sg,A,src-pl-sg,CRIMP-44-src-pl-sg,44,src,pl,sg,gram,3,It's Scott who holds the greatest confidence in the fan with the jerseys.
+exp-crit-src-sg-pl,B,src-sg-pl,CRIMP-44-src-sg-pl,44,src,sg,pl,ungram,3,It's Scott who hold the greatest confidence in the fan with the jersey.
+exp-crit-src-sg-sg,C,src-sg-sg,CRIMP-44-src-sg-sg,44,src,sg,sg,gram,3,It's Scott who holds the greatest confidence in the fan with the jersey.
+exp-crit-orc-pl-pl,E,orc-pl-pl,CRIMP-45-orc-pl-pl,45,orc,pl,pl,ungram,5,It's Diana who the villager with the gardens respect the most.
+exp-crit-orc-pl-sg,F,orc-pl-sg,CRIMP-45-orc-pl-sg,45,orc,pl,sg,gram,5,It's Diana who the villager with the gardens respects the most.
+exp-crit-orc-sg-pl,G,orc-sg-pl,CRIMP-45-orc-sg-pl,45,orc,sg,pl,ungram,5,It's Diana who the villager with the garden respect the most.
+exp-crit-orc-sg-sg,H,orc-sg-sg,CRIMP-45-orc-sg-sg,45,orc,sg,sg,gram,5,It's Diana who the villager with the garden respects the most.
+exp-crit-src-pl-pl,A,src-pl-pl,CRIMP-45-src-pl-pl,45,src,pl,pl,ungram,3,It's Diana who respect the villager with the gardens the most.
+exp-crit-src-pl-sg,B,src-pl-sg,CRIMP-45-src-pl-sg,45,src,pl,sg,gram,3,It's Diana who respects the villager with the gardens the most.
+exp-crit-src-sg-pl,C,src-sg-pl,CRIMP-45-src-sg-pl,45,src,sg,pl,ungram,3,It's Diana who respect the villager with the garden the most.
+exp-crit-src-sg-sg,D,src-sg-sg,CRIMP-45-src-sg-sg,45,src,sg,sg,gram,3,It's Diana who respects the villager with the garden the most.
+exp-crit-orc-pl-pl,F,orc-pl-pl,CRIMP-46-orc-pl-pl,46,orc,pl,pl,ungram,5,It's William who the millionaire with the yachts pursue so relentlessly.
+exp-crit-orc-pl-sg,G,orc-pl-sg,CRIMP-46-orc-pl-sg,46,orc,pl,sg,gram,5,It's William who the millionaire with the yachts pursues so relentlessly.
+exp-crit-orc-sg-pl,H,orc-sg-pl,CRIMP-46-orc-sg-pl,46,orc,sg,pl,ungram,5,It's William who the millionaire with the yacht pursue so relentlessly.
+exp-crit-orc-sg-sg,A,orc-sg-sg,CRIMP-46-orc-sg-sg,46,orc,sg,sg,gram,5,It's William who the millionaire with the yacht pursues so relentlessly.
+exp-crit-src-pl-pl,B,src-pl-pl,CRIMP-46-src-pl-pl,46,src,pl,pl,ungram,3,It's William who pursue the millionaire with the yachts so relentlessly.
+exp-crit-src-pl-sg,C,src-pl-sg,CRIMP-46-src-pl-sg,46,src,pl,sg,gram,3,It's William who pursues the millionaire with the yachts so relentlessly.
+exp-crit-src-sg-pl,D,src-sg-pl,CRIMP-46-src-sg-pl,46,src,sg,pl,ungram,3,It's William who pursue the millionaire with the yacht so relentlessly.
+exp-crit-src-sg-sg,E,src-sg-sg,CRIMP-46-src-sg-sg,46,src,sg,sg,gram,3,It's William who pursues the millionaire with the yacht so relentlessly.
+exp-crit-orc-pl-pl,G,orc-pl-pl,CRIMP-47-orc-pl-pl,47,orc,pl,pl,ungram,5,It's Rebecca who the manager of the projects oversee at the software firm.
+exp-crit-orc-pl-sg,H,orc-pl-sg,CRIMP-47-orc-pl-sg,47,orc,pl,sg,gram,5,It's Rebecca who the manager of the projects oversees at the software firm.
+exp-crit-orc-sg-pl,A,orc-sg-pl,CRIMP-47-orc-sg-pl,47,orc,sg,pl,ungram,5,It's Rebecca who the manager of the project oversee at the software firm.
+exp-crit-orc-sg-sg,B,orc-sg-sg,CRIMP-47-orc-sg-sg,47,orc,sg,sg,gram,5,It's Rebecca who the manager of the project oversees at the software firm.
+exp-crit-src-pl-pl,C,src-pl-pl,CRIMP-47-src-pl-pl,47,src,pl,pl,ungram,3,It's Rebecca who oversee the manager of the projects at the software firm.
+exp-crit-src-pl-sg,D,src-pl-sg,CRIMP-47-src-pl-sg,47,src,pl,sg,gram,3,It's Rebecca who oversees the manager of the projects at the software firm.
+exp-crit-src-sg-pl,E,src-sg-pl,CRIMP-47-src-sg-pl,47,src,sg,pl,ungram,3,It's Rebecca who oversee the manager of the project at the software firm.
+exp-crit-src-sg-sg,F,src-sg-sg,CRIMP-47-src-sg-sg,47,src,sg,sg,gram,3,It's Rebecca who oversees the manager of the project at the software firm.
+exp-crit-orc-pl-pl,H,orc-pl-pl,CRIMP-48-orc-pl-pl,48,orc,pl,pl,ungram,5,It's George who the designer with the boutiques create award show dresses for.
+exp-crit-orc-pl-sg,A,orc-pl-sg,CRIMP-48-orc-pl-sg,48,orc,pl,sg,gram,5,It's George who the designer with the boutiques creates award show dresses for.
+exp-crit-orc-sg-pl,B,orc-sg-pl,CRIMP-48-orc-sg-pl,48,orc,sg,pl,ungram,5,It's George who the designer with the boutique create award show dresses for.
+exp-crit-orc-sg-sg,C,orc-sg-sg,CRIMP-48-orc-sg-sg,48,orc,sg,sg,gram,5,It's George who the designer with the boutique creates award show dresses for.
+exp-crit-src-pl-pl,D,src-pl-pl,CRIMP-48-src-pl-pl,48,src,pl,pl,ungram,3,It's George who create award show dresses for the designer with the boutiques.
+exp-crit-src-pl-sg,E,src-pl-sg,CRIMP-48-src-pl-sg,48,src,pl,sg,gram,3,It's George who creates award show dresses for the designer with the boutiques.
+exp-crit-src-sg-pl,F,src-sg-pl,CRIMP-48-src-sg-pl,48,src,sg,pl,ungram,3,It's George who create award show dresses for the designer with the boutique.
+exp-crit-src-sg-sg,G,src-sg-sg,CRIMP-48-src-sg-sg,48,src,sg,sg,gram,3,It's George who creates award show dresses for the designer with the boutique.

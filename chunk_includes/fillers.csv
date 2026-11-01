@@ -1,0 +1,77 @@
+label,filler,construction,expected,verb_num,status,sentence
+exp-fill-subject_attached_ORC-gram,33,subject-attached ORC,gram,sg,as tested,The lawyer who the complicated contract was assigned to at the courthouse reassured the judge.
+exp-fill-subject_attached_ORC-gram,34,subject-attached ORC,gram,sg,as tested,The barber who the wedding payment was intended for in the shop surprised the owner.
+exp-fill-subject_attached_ORC-gram,35,subject-attached ORC,gram,sg,as tested,The medicine which the sickly patient was relying on in the hospital tasted very bad.
+exp-fill-subject_attached_ORC-gram,36,subject-attached ORC,gram,sg,as tested,The lecturer who the intelligent student was listening to in the old classroom challenged the school administration.
+exp-fill-subject_attached_ORC-gram,37,subject-attached ORC,gram,sg,as tested,The contractor who the frustrated homeowner was complaining about in the garage fixed the broken doorway.
+exp-fill-subject_attached_ORC-gram,38,subject-attached ORC,gram,sg,as tested,The author who the devoted reader was excitedly praising at the book club inspired the young woman.
+exp-fill-subject_attached_ORC-gram,39,subject-attached ORC,gram,sg,as tested,The therapist who the anxious client was spending time with in the office bought the new clinic.
+exp-fill-subject_attached_ORC-gram,40,subject-attached ORC,gram,pl,as tested,The ambassador who the angry statesmen were arguing with in the conference room impressed the committee.
+exp-fill-subject_attached_ORC-ungram,41,subject-attached ORC,ungram,sg,as tested,The chef who the lazy waiters was tired of during the long shift annoyed the manager.
+exp-fill-subject_attached_ORC-ungram,42,subject-attached ORC,ungram,sg,as tested,The deputy who the faulty fireworks was alerting in the park frightened the parents.
+exp-fill-subject_attached_ORC-ungram,43,subject-attached ORC,ungram,sg,as tested,The dentist who the cutting-edge tools was helping at the clinic impressed the board.
+exp-fill-subject_attached_ORC-ungram,44,subject-attached ORC,ungram,sg,as tested,The janitor who the clumsy employees was cleaning after in the office frustrated the supervisor.
+exp-fill-subject_attached_ORC-ungram,45,subject-attached ORC,ungram,sg,corrected,The game which the seasoned veterans was concerned with after the festival angered the citizens.
+exp-fill-subject_attached_ORC-ungram,46,subject-attached ORC,ungram,sg,as tested,The croissant which the noisy patrons was whispering about in the coffee shop enticed the construction workers.
+exp-fill-subject_attached_ORC-ungram,47,subject-attached ORC,ungram,sg,as tested,The bus driver which the nervous passengers was happy with during the long roadtrip seemed professional.
+exp-fill-subject_attached_ORC-ungram,48,subject-attached ORC,ungram,sg,as tested,The carpenter who the careless bartenders was serving in the old cafe upset the residents.
+exp-fill-object_attached_SRC-gram,49,object-attached SRC,gram,sg,as tested,The air traffic controller fixed the delayed flight schedule which was disorganized after the meeting.
+exp-fill-object_attached_SRC-gram,50,object-attached SRC,gram,sg,as tested,The economist analyzed the collapsing investment fund which was declining after the stock market crash.
+exp-fill-object_attached_SRC-gram,51,object-attached SRC,gram,sg,as tested,The businessperson praised the profitable sales campaign which was as successful as the previous one.
+exp-fill-object_attached_SRC-gram,52,object-attached SRC,gram,sg,as tested,The dietician advised the unhealthy cook who was recovering after the surgery.
+exp-fill-object_attached_SRC-ungram,53,object-attached SRC,ungram,pl,corrected,The map assisted the muscular hiker who were lost on the windy trail.
+exp-fill-object_attached_SRC-ungram,54,object-attached SRC,ungram,pl,as tested,The judge promoted the junior attorney who were praised repeatedly by the government official.
+exp-fill-object_attached_SRC-ungram,55,object-attached SRC,ungram,pl,as tested,The painter wrote the long schedule which were packed with activities in the old studio apartment.
+exp-fill-object_attached_SRC-ungram,56,object-attached SRC,ungram,pl,as tested,The flask replaced the broken beaker which were used for the medical diagnostics.
+exp-fill-object_attached_SRC-ungram,57,object-attached SRC,ungram,pl,corrected,The producer hired the quiet musician who were highly skilled in cello before the recital.
+exp-fill-object_attached_SRC-ungram,58,object-attached SRC,ungram,sg,as tested,The architect redesigned the convoluted blueprints which was damaged during the earthquake.
+exp-fill-object_attached_SRC-ungram,59,object-attached SRC,ungram,sg,as tested,The tour guide warned the inexperienced families who was unprepared for the coming storm.
+exp-fill-object_attached_SRC-ungram,60,object-attached SRC,ungram,sg,corrected,The director congratulated the award-winning composers who was nominated for the international award.
+exp-fill-object_attached_SRC-gram,61,object-attached SRC,gram,pl,as tested,The electrician organized the inefficient lightbulbs which were shipped to different shelters after the flood.
+exp-fill-object_attached_SRC-gram,62,object-attached SRC,gram,pl,as tested,The wall displayed the ancient marine fossils which were discovered near the coastal ruins.
+exp-fill-object_attached_SRC-gram,63,object-attached SRC,gram,pl,as tested,The farmer selected the prolific vegetable roots which were easy to plant during the rainy season.
+exp-fill-object_attached_SRC-gram,64,object-attached SRC,gram,pl,as tested,The flight attendant tended to the annoyed businessmen who were late for their big sales pitch.
+exp-fill-complement_clause-ungram,65,complement clause,ungram,pl,as tested,The screen indicated that the potent steroid were ready for pickup after the long wait.
+exp-fill-complement_clause-ungram,66,complement clause,ungram,pl,as tested,The report showed that the injured firefighter were tired during the summer months.
+exp-fill-complement_clause-ungram,67,complement clause,ungram,pl,new wording (draft),The principal noted that the annoying colleague were with the students most of the time.
+exp-fill-complement_clause-ungram,68,complement clause,ungram,pl,new wording (draft),The video showed that the swift quarterback were working out every weekend.
+exp-fill-complement_clause-ungram,69,complement clause,ungram,pl,corrected,The budget revealed that the intelligent accountant were very well paid at the firm.
+exp-fill-complement_clause-ungram,70,complement clause,ungram,pl,as tested,The nurse observed that the meticulous surgeon were in the operating room.
+exp-fill-complement_clause-ungram,71,complement clause,ungram,pl,as tested,The counselor reported that the strict supervisor were supposed to provide advice and support.
+exp-fill-complement_clause-ungram,72,complement clause,ungram,pl,new wording (draft),The reporter noted that the apathetic senator were never at the local political events.
+exp-fill-complement_clause-ungram,73,complement clause,ungram,pl,new wording (draft),The publisher knew that the youthful author were very popular in India.
+exp-fill-complement_clause-ungram,74,complement clause,ungram,pl,new wording (draft),The farmer said that the rude teenager were late for work every summer.
+exp-fill-complement_clause-ungram,75,complement clause,ungram,pl,as tested,The records showed that the retired journalist were always prompt with her email replies.
+exp-fill-complement_clause-ungram,76,complement clause,ungram,pl,as tested,The cleaning service observed that the damaged door were left unlocked accidentally.
+exp-fill-complement_clause-ungram,77,complement clause,ungram,pl,as tested,The contractor reported that the long memo were about the delinquent tax return.
+exp-fill-complement_clause-ungram,78,complement clause,ungram,pl,as tested,The stockbroker revealed that the hefty check were a dividend on a long-term bond.
+exp-fill-complement_clause-ungram,79,complement clause,ungram,pl,as tested,The smuggler announced that the airplane were in Brazil after their trip from South Asia.
+exp-fill-complement_clause-ungram,80,complement clause,ungram,pl,as tested,The prisoner observed that the comedy show were only entertaining during times of distress.
+exp-fill-complement_clause-ungram,81,complement clause,ungram,pl,new wording (draft),The janitor realized that the shy student were too afraid to tell the teachers.
+exp-fill-complement_clause-ungram,82,complement clause,ungram,pl,as tested,The scientist noted that the controversial theory were discussed during the radio program.
+exp-fill-complement_clause-ungram,83,complement clause,ungram,pl,as tested,The bricklayer noted that the rushed city plan were not compliant with the architectural guidelines.
+exp-fill-complement_clause-ungram,84,complement clause,ungram,pl,as tested,The waitress observed that the irritating customer were the one who complains about everything.
+exp-fill-complement_clause-ungram,85,complement clause,ungram,pl,as tested,The host noted that the gifted folk dance were performed since she was a young girl in Ecuador.
+exp-fill-complement_clause-ungram,86,complement clause,ungram,pl,as tested,The construction worker reported that the polluted factory were a poison to the environment.
+exp-fill-complement_clause-gram,87,complement clause,gram,pl,as tested,The activist thought that the greedy industrialists were too unconcerned with the environment.
+exp-fill-complement_clause-gram,88,complement clause,gram,pl,as tested,The host loved that the frantic partygoers were about to leave after causing a ruckus.
+exp-fill-complement_clause-gram,89,complement clause,gram,pl,as tested,The landlord disapproved that the young tenants were out late on weekends.
+exp-fill-complement_clause-gram,90,complement clause,gram,pl,as tested,The speech revealed that the ambitious cheerleaders were training all year for the national competition.
+exp-fill-complement_clause-gram,91,complement clause,gram,pl,new wording (draft),The journalist said that the European translators were working furiously to facilitate peace talks.
+exp-fill-complement_clause-gram,92,complement clause,gram,pl,new wording (draft),The agent felt that the experienced actors were the safest choice for a while.
+exp-fill-complement_clause-gram,93,complement clause,gram,pl,new wording (draft),The auditor observed that the introverted programmers were at the startup.
+exp-fill-complement_clause-gram,94,complement clause,gram,pl,as tested,The patron gossiped that the handsome bartenders were unfaithful after work.
+exp-fill-complement_clause-gram,95,complement clause,gram,pl,new wording (draft),The announcer noted that the team's back-up goalies were calm under pressure.
+exp-fill-complement_clause-gram,96,complement clause,gram,pl,as tested,The email stated that the visiting anthropologists were with the local customs.
+exp-fill-complement_clause-gram,97,complement clause,gram,pl,as tested,The bachelor knew that the youthful heiresses were clever and demanding.
+exp-fill-complement_clause-gram,98,complement clause,gram,pl,as tested,The officer saw that the armored vehicles were always ready to go out on the road.
+exp-fill-complement_clause-gram,99,complement clause,gram,pl,as tested,The doctor read that the contaminated samples were undergoing a cleaning procedure.
+exp-fill-complement_clause-gram,100,complement clause,gram,pl,new wording (draft),The coordinator reported that the mature volunteers were dedicated to their work.
+exp-fill-complement_clause-gram,101,complement clause,gram,pl,as tested,The coach observed that the skilled players were the ones who always get to practice on time.
+exp-fill-complement_clause-gram,102,complement clause,gram,pl,corrected,The driver reported that the warning signals were too difficult to see.
+exp-fill-complement_clause-gram,103,complement clause,gram,pl,as tested,The farmers realized that the heavy tractors were working pretty hard.
+exp-fill-complement_clause-gram,104,complement clause,gram,pl,as tested,The placard said that the marble sculptures were funded quite generously.
+exp-fill-complement_clause-gram,105,complement clause,gram,pl,new wording (draft),The organizers knew that the charity concerts were likely to win a major award.
+exp-fill-complement_clause-gram,106,complement clause,gram,pl,as tested,The survey suggested that the evening broadcasts were trusted the most.
+exp-fill-complement_clause-gram,107,complement clause,gram,pl,as tested,The text message said that the off-road vehicles were very trustworthy on the range.
+exp-fill-complement_clause-gram,108,complement clause,gram,pl,as tested,The criminal feared that the sentencing guidelines were in support of tough sentences for minor offenses.
