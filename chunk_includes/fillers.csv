@@ -1,77 +1,77 @@
-label,filler,construction,expected,verb_num,status,sentence
-exp-fill-subject_attached_ORC-gram,33,subject-attached ORC,gram,sg,as tested,The lawyer who the complicated contract was assigned to at the courthouse reassured the judge.
-exp-fill-subject_attached_ORC-gram,34,subject-attached ORC,gram,sg,as tested,The barber who the wedding payment was intended for in the shop surprised the owner.
-exp-fill-subject_attached_ORC-gram,35,subject-attached ORC,gram,sg,as tested,The medicine which the sickly patient was relying on in the hospital tasted very bad.
-exp-fill-subject_attached_ORC-gram,36,subject-attached ORC,gram,sg,as tested,The lecturer who the intelligent student was listening to in the old classroom challenged the school administration.
-exp-fill-subject_attached_ORC-gram,37,subject-attached ORC,gram,sg,as tested,The contractor who the frustrated homeowner was complaining about in the garage fixed the broken doorway.
-exp-fill-subject_attached_ORC-gram,38,subject-attached ORC,gram,sg,as tested,The author who the devoted reader was excitedly praising at the book club inspired the young woman.
-exp-fill-subject_attached_ORC-gram,39,subject-attached ORC,gram,sg,as tested,The therapist who the anxious client was spending time with in the office bought the new clinic.
-exp-fill-subject_attached_ORC-gram,40,subject-attached ORC,gram,pl,as tested,The ambassador who the angry statesmen were arguing with in the conference room impressed the committee.
-exp-fill-subject_attached_ORC-ungram,41,subject-attached ORC,ungram,sg,as tested,The chef who the lazy waiters was tired of during the long shift annoyed the manager.
-exp-fill-subject_attached_ORC-ungram,42,subject-attached ORC,ungram,sg,as tested,The deputy who the faulty fireworks was alerting in the park frightened the parents.
-exp-fill-subject_attached_ORC-ungram,43,subject-attached ORC,ungram,sg,as tested,The dentist who the cutting-edge tools was helping at the clinic impressed the board.
-exp-fill-subject_attached_ORC-ungram,44,subject-attached ORC,ungram,sg,as tested,The janitor who the clumsy employees was cleaning after in the office frustrated the supervisor.
-exp-fill-subject_attached_ORC-ungram,45,subject-attached ORC,ungram,sg,corrected,The game which the seasoned veterans was concerned with after the festival angered the citizens.
-exp-fill-subject_attached_ORC-ungram,46,subject-attached ORC,ungram,sg,as tested,The croissant which the noisy patrons was whispering about in the coffee shop enticed the construction workers.
-exp-fill-subject_attached_ORC-ungram,47,subject-attached ORC,ungram,sg,as tested,The bus driver which the nervous passengers was happy with during the long roadtrip seemed professional.
-exp-fill-subject_attached_ORC-ungram,48,subject-attached ORC,ungram,sg,as tested,The carpenter who the careless bartenders was serving in the old cafe upset the residents.
-exp-fill-object_attached_SRC-gram,49,object-attached SRC,gram,sg,as tested,The air traffic controller fixed the delayed flight schedule which was disorganized after the meeting.
-exp-fill-object_attached_SRC-gram,50,object-attached SRC,gram,sg,as tested,The economist analyzed the collapsing investment fund which was declining after the stock market crash.
-exp-fill-object_attached_SRC-gram,51,object-attached SRC,gram,sg,as tested,The businessperson praised the profitable sales campaign which was as successful as the previous one.
-exp-fill-object_attached_SRC-gram,52,object-attached SRC,gram,sg,as tested,The dietician advised the unhealthy cook who was recovering after the surgery.
-exp-fill-object_attached_SRC-ungram,53,object-attached SRC,ungram,pl,corrected,The map assisted the muscular hiker who were lost on the windy trail.
-exp-fill-object_attached_SRC-ungram,54,object-attached SRC,ungram,pl,as tested,The judge promoted the junior attorney who were praised repeatedly by the government official.
-exp-fill-object_attached_SRC-ungram,55,object-attached SRC,ungram,pl,as tested,The painter wrote the long schedule which were packed with activities in the old studio apartment.
-exp-fill-object_attached_SRC-ungram,56,object-attached SRC,ungram,pl,as tested,The flask replaced the broken beaker which were used for the medical diagnostics.
-exp-fill-object_attached_SRC-ungram,57,object-attached SRC,ungram,pl,corrected,The producer hired the quiet musician who were highly skilled in cello before the recital.
-exp-fill-object_attached_SRC-ungram,58,object-attached SRC,ungram,sg,as tested,The architect redesigned the convoluted blueprints which was damaged during the earthquake.
-exp-fill-object_attached_SRC-ungram,59,object-attached SRC,ungram,sg,as tested,The tour guide warned the inexperienced families who was unprepared for the coming storm.
-exp-fill-object_attached_SRC-ungram,60,object-attached SRC,ungram,sg,corrected,The director congratulated the award-winning composers who was nominated for the international award.
-exp-fill-object_attached_SRC-gram,61,object-attached SRC,gram,pl,as tested,The electrician organized the inefficient lightbulbs which were shipped to different shelters after the flood.
-exp-fill-object_attached_SRC-gram,62,object-attached SRC,gram,pl,as tested,The wall displayed the ancient marine fossils which were discovered near the coastal ruins.
-exp-fill-object_attached_SRC-gram,63,object-attached SRC,gram,pl,as tested,The farmer selected the prolific vegetable roots which were easy to plant during the rainy season.
-exp-fill-object_attached_SRC-gram,64,object-attached SRC,gram,pl,as tested,The flight attendant tended to the annoyed businessmen who were late for their big sales pitch.
-exp-fill-complement_clause-ungram,65,complement clause,ungram,pl,as tested,The screen indicated that the potent steroid were ready for pickup after the long wait.
-exp-fill-complement_clause-ungram,66,complement clause,ungram,pl,as tested,The report showed that the injured firefighter were tired during the summer months.
-exp-fill-complement_clause-ungram,67,complement clause,ungram,pl,new wording (draft),The principal noted that the annoying colleague were with the students most of the time.
-exp-fill-complement_clause-ungram,68,complement clause,ungram,pl,new wording (draft),The video showed that the swift quarterback were working out every weekend.
-exp-fill-complement_clause-ungram,69,complement clause,ungram,pl,corrected,The budget revealed that the intelligent accountant were very well paid at the firm.
-exp-fill-complement_clause-ungram,70,complement clause,ungram,pl,as tested,The nurse observed that the meticulous surgeon were in the operating room.
-exp-fill-complement_clause-ungram,71,complement clause,ungram,pl,as tested,The counselor reported that the strict supervisor were supposed to provide advice and support.
-exp-fill-complement_clause-ungram,72,complement clause,ungram,pl,new wording (draft),The reporter noted that the apathetic senator were never at the local political events.
-exp-fill-complement_clause-ungram,73,complement clause,ungram,pl,new wording (draft),The publisher knew that the youthful author were very popular in India.
-exp-fill-complement_clause-ungram,74,complement clause,ungram,pl,new wording (draft),The farmer said that the rude teenager were late for work every summer.
-exp-fill-complement_clause-ungram,75,complement clause,ungram,pl,as tested,The records showed that the retired journalist were always prompt with her email replies.
-exp-fill-complement_clause-ungram,76,complement clause,ungram,pl,as tested,The cleaning service observed that the damaged door were left unlocked accidentally.
-exp-fill-complement_clause-ungram,77,complement clause,ungram,pl,as tested,The contractor reported that the long memo were about the delinquent tax return.
-exp-fill-complement_clause-ungram,78,complement clause,ungram,pl,as tested,The stockbroker revealed that the hefty check were a dividend on a long-term bond.
-exp-fill-complement_clause-ungram,79,complement clause,ungram,pl,as tested,The smuggler announced that the airplane were in Brazil after their trip from South Asia.
-exp-fill-complement_clause-ungram,80,complement clause,ungram,pl,as tested,The prisoner observed that the comedy show were only entertaining during times of distress.
-exp-fill-complement_clause-ungram,81,complement clause,ungram,pl,new wording (draft),The janitor realized that the shy student were too afraid to tell the teachers.
-exp-fill-complement_clause-ungram,82,complement clause,ungram,pl,as tested,The scientist noted that the controversial theory were discussed during the radio program.
-exp-fill-complement_clause-ungram,83,complement clause,ungram,pl,as tested,The bricklayer noted that the rushed city plan were not compliant with the architectural guidelines.
-exp-fill-complement_clause-ungram,84,complement clause,ungram,pl,as tested,The waitress observed that the irritating customer were the one who complains about everything.
-exp-fill-complement_clause-ungram,85,complement clause,ungram,pl,as tested,The host noted that the gifted folk dance were performed since she was a young girl in Ecuador.
-exp-fill-complement_clause-ungram,86,complement clause,ungram,pl,as tested,The construction worker reported that the polluted factory were a poison to the environment.
-exp-fill-complement_clause-gram,87,complement clause,gram,pl,as tested,The activist thought that the greedy industrialists were too unconcerned with the environment.
-exp-fill-complement_clause-gram,88,complement clause,gram,pl,as tested,The host loved that the frantic partygoers were about to leave after causing a ruckus.
-exp-fill-complement_clause-gram,89,complement clause,gram,pl,as tested,The landlord disapproved that the young tenants were out late on weekends.
-exp-fill-complement_clause-gram,90,complement clause,gram,pl,as tested,The speech revealed that the ambitious cheerleaders were training all year for the national competition.
-exp-fill-complement_clause-gram,91,complement clause,gram,pl,new wording (draft),The journalist said that the European translators were working furiously to facilitate peace talks.
-exp-fill-complement_clause-gram,92,complement clause,gram,pl,new wording (draft),The agent felt that the experienced actors were the safest choice for a while.
-exp-fill-complement_clause-gram,93,complement clause,gram,pl,new wording (draft),The auditor observed that the introverted programmers were at the startup.
-exp-fill-complement_clause-gram,94,complement clause,gram,pl,as tested,The patron gossiped that the handsome bartenders were unfaithful after work.
-exp-fill-complement_clause-gram,95,complement clause,gram,pl,new wording (draft),The announcer noted that the team's back-up goalies were calm under pressure.
-exp-fill-complement_clause-gram,96,complement clause,gram,pl,as tested,The email stated that the visiting anthropologists were with the local customs.
-exp-fill-complement_clause-gram,97,complement clause,gram,pl,as tested,The bachelor knew that the youthful heiresses were clever and demanding.
-exp-fill-complement_clause-gram,98,complement clause,gram,pl,as tested,The officer saw that the armored vehicles were always ready to go out on the road.
-exp-fill-complement_clause-gram,99,complement clause,gram,pl,as tested,The doctor read that the contaminated samples were undergoing a cleaning procedure.
-exp-fill-complement_clause-gram,100,complement clause,gram,pl,new wording (draft),The coordinator reported that the mature volunteers were dedicated to their work.
-exp-fill-complement_clause-gram,101,complement clause,gram,pl,as tested,The coach observed that the skilled players were the ones who always get to practice on time.
-exp-fill-complement_clause-gram,102,complement clause,gram,pl,corrected,The driver reported that the warning signals were too difficult to see.
-exp-fill-complement_clause-gram,103,complement clause,gram,pl,as tested,The farmers realized that the heavy tractors were working pretty hard.
-exp-fill-complement_clause-gram,104,complement clause,gram,pl,as tested,The placard said that the marble sculptures were funded quite generously.
-exp-fill-complement_clause-gram,105,complement clause,gram,pl,new wording (draft),The organizers knew that the charity concerts were likely to win a major award.
-exp-fill-complement_clause-gram,106,complement clause,gram,pl,as tested,The survey suggested that the evening broadcasts were trusted the most.
-exp-fill-complement_clause-gram,107,complement clause,gram,pl,as tested,The text message said that the off-road vehicles were very trustworthy on the range.
-exp-fill-complement_clause-gram,108,complement clause,gram,pl,as tested,The criminal feared that the sentencing guidelines were in support of tough sentences for minor offenses.
+label,slot,construction,pivot,expected,verb_num,attractor_num,status,sentence
+exp-fill-mirror_cleft_ORC1-gram,33,mirror cleft ORC1,one name,gram,pl,sg,new: mirror ORC1 (one-name pivot),It's Gwen who the clerks at the courthouse thank for the paperwork.
+exp-fill-mirror_cleft_ORC1-gram,34,mirror cleft ORC1,one name,gram,pl,sg,new: mirror ORC1 (one-name pivot),It's Clara who the truckers at the diner tip at the end of the night.
+exp-fill-mirror_cleft_ORC1-gram,35,mirror cleft ORC1,one name,gram,pl,sg,new: mirror ORC1 (one-name pivot),It's Jasper who the beekeepers in the valley visit every spring.
+exp-fill-subject_attached_ORC-gram,36,subject-attached ORC,,gram,sg,,kept: identical,The lecturer who the intelligent student was listening to in the old classroom challenged the school administration.
+exp-fill-subject_attached_ORC-gram,37,subject-attached ORC,,gram,sg,,kept: identical,The contractor who the frustrated homeowner was complaining about in the garage fixed the broken doorway.
+exp-fill-mirror_cleft_ORC1-gram,38,mirror cleft ORC1,one name,gram,pl,pl,new: mirror ORC1 (one-name pivot),It's Naomi who the cyclists from the local clubs race against on Sundays.
+exp-fill-mirror_cleft_ORC1-gram,39,mirror cleft ORC1,one name,gram,pl,pl,new: mirror ORC1 (one-name pivot),It's Boris who the cooks in the hotel kitchens train on the new ovens.
+exp-fill-mirror_cleft_SRC-gram,40,mirror cleft SRC,two names,gram,pl,,new: mirror SRC (two-name pivot),It's Alice and Victor who argue with the ambassador in the conference room.
+exp-fill-subject_attached_ORC-ungram,41,subject-attached ORC,,ungram,sg,,kept: identical,The chef who the lazy waiters was tired of during the long shift annoyed the manager.
+exp-fill-subject_attached_ORC-ungram,42,subject-attached ORC,,ungram,sg,,kept: identical,The deputy who the faulty fireworks was alerting in the park frightened the parents.
+exp-fill-mirror_cleft_ORC1-ungram,43,mirror cleft ORC1,one name,ungram,sg,sg,new: mirror ORC1 (one-name pivot),It's Mateo who the fishermen on the dock greets every dawn.
+exp-fill-mirror_cleft_ORC1-ungram,44,mirror cleft ORC1,one name,ungram,sg,sg,new: mirror ORC1 (one-name pivot),It's Freya who the carpenters in the shop pays every week.
+exp-fill-mirror_cleft_ORC1-ungram,45,mirror cleft ORC1,one name,ungram,sg,pl,new: mirror ORC1 (one-name pivot),It's Damon who the cashiers at the supermarkets recognizes from the ads.
+exp-fill-mirror_cleft_ORC1-ungram,46,mirror cleft ORC1,one name,ungram,sg,sg,new: mirror ORC1 (one-name pivot),It's Petra who the hunters in the forest guides through the snow.
+exp-fill-mirror_cleft_ORC1-ungram,47,mirror cleft ORC1,one name,ungram,sg,pl,new: mirror ORC1 (one-name pivot),It's Silas who the sailors on the ferries hails in bad weather.
+exp-fill-mirror_cleft_ORC1-ungram,48,mirror cleft ORC1,one name,ungram,sg,sg,new: mirror ORC1 (one-name pivot),It's Ingrid who the florists at the market buys tulips from.
+exp-fill-object_attached_SRC-gram,49,object-attached SRC,,gram,sg,,kept: identical,The air traffic controller fixed the delayed flight schedule which was disorganized after the meeting.
+exp-fill-mirror_cleft_ORC1-gram,50,mirror cleft ORC1,one name,gram,pl,pl,new: mirror ORC1 (one-name pivot),It's Greta who the singers in the choirs hug after each rehearsal.
+exp-fill-mirror_cleft_ORC1-gram,51,mirror cleft ORC1,one name,gram,pl,sg,new: mirror ORC1 (one-name pivot),It's Oscar who the surfers at the beach spot from the pier.
+exp-fill-object_attached_SRC-gram,52,object-attached SRC,,gram,sg,,kept: identical,The dietician advised the unhealthy cook who was recovering after the surgery.
+exp-fill-mirror_cleft_ORC1-ungram,53,mirror cleft ORC1,one name,ungram,sg,sg,new: mirror ORC1 (one-name pivot),It's Milo who the hikers on the windy trail asks for water.
+exp-fill-object_attached_SRC-ungram,54,object-attached SRC,,ungram,pl,,kept: identical,The judge promoted the junior attorney who were praised repeatedly by the government official.
+exp-fill-mirror_cleft_ORC1-ungram,55,mirror cleft ORC1,one name,ungram,sg,pl,new: mirror ORC1 (one-name pivot),It's Nolan who the referees in the leagues looks to for advice.
+exp-fill-mirror_cleft_ORC2-ungram,56,mirror cleft ORC2,two names,ungram,pl,sg,new: mirror ORC2 (two-name pivot),It's Agnes and Toby who the conductor of the youth choir thank after the encore.
+exp-fill-mirror_cleft_SRC-ungram,57,mirror cleft SRC,two names,ungram,sg,,new: mirror SRC (two-name pivot),It's Tobias and Maya who teaches the cello classes on Saturdays.
+exp-fill-object_attached_SRC-ungram,58,object-attached SRC,,ungram,sg,,kept: identical,The architect redesigned the convoluted blueprints which was damaged during the earthquake.
+exp-fill-object_attached_SRC-ungram,59,object-attached SRC,,ungram,sg,,kept: identical,The tour guide warned the inexperienced families who was unprepared for the coming storm.
+exp-fill-mirror_cleft_ORC1-ungram,60,mirror cleft ORC1,one name,ungram,sg,pl,new: mirror ORC1 (one-name pivot),It's Ruth who the composers in the orchestras writes to every spring.
+exp-fill-object_attached_SRC-gram,61,object-attached SRC,,gram,pl,,kept: identical,The electrician organized the inefficient lightbulbs which were shipped to different shelters after the flood.
+exp-fill-mirror_cleft_ORC1-gram,62,mirror cleft ORC1,one name,gram,pl,pl,new: mirror ORC1 (one-name pivot),It's Felix who the divers near the coastal ruins follow every morning.
+exp-fill-mirror_cleft_ORC1-gram,63,mirror cleft ORC1,one name,gram,pl,pl,new: mirror ORC1 (one-name pivot),It's Lydia who the jurors in the trials believe without question.
+exp-fill-mirror_cleft_ORC2-gram,64,mirror cleft ORC2,two names,gram,sg,sg,new: mirror ORC2 (two-name pivot),It's Bianca and Cyrus who the chef at the bistro invites to tastings.
+exp-fill-mirror_cleft_SRC-ungram,65,mirror cleft SRC,two names,ungram,sg,,new: mirror SRC (two-name pivot),It's Priya and Bruno who picks up the prescriptions from the pharmacy.
+exp-fill-complement_clause-ungram,66,complement clause,,ungram,pl,,kept: identical,The report showed that the injured firefighter were tired during the summer months.
+exp-fill-mirror_cleft_ORC1-ungram,67,mirror cleft ORC1,one name,ungram,sg,pl,new: mirror ORC1 (one-name pivot),It's Theo who the substitutes at the middle schools phones after class.
+exp-fill-mirror_cleft_SRC-ungram,68,mirror cleft SRC,two names,ungram,sg,,new: mirror SRC (two-name pivot),It's Arlo and Rita who runs the drills at the stadium on Sunday mornings.
+exp-fill-mirror_cleft_ORC1-ungram,69,mirror cleft ORC1,one name,ungram,sg,pl,new: mirror ORC1 (one-name pivot),It's Leah who the auditors from the agencies interviews in the spring.
+exp-fill-mirror_cleft_ORC2-ungram,70,mirror cleft ORC2,two names,ungram,pl,pl,new: mirror ORC2 (two-name pivot),It's Gideon and Sylvia who the principal of the high schools call every morning.
+exp-fill-mirror_cleft_ORC2-ungram,71,mirror cleft ORC2,two names,ungram,pl,sg,new: mirror ORC2 (two-name pivot),It's Rhea and Vernon who the curator at the gallery invite to openings.
+exp-fill-mirror_cleft_SRC-ungram,72,mirror cleft SRC,two names,ungram,sg,,new: mirror SRC (two-name pivot),It's Sofia and Wade who attends the town meetings with the councilman.
+exp-fill-mirror_cleft_ORC1-ungram,73,mirror cleft ORC1,one name,ungram,sg,sg,new: mirror ORC1 (one-name pivot),It's Ivan who the poets in the workshop invites to readings.
+exp-fill-mirror_cleft_SRC-ungram,74,mirror cleft SRC,two names,ungram,sg,,new: mirror SRC (two-name pivot),It's Owen and Talia who drives the teenagers to their summer jobs.
+exp-fill-mirror_cleft_ORC1-ungram,75,mirror cleft ORC1,one name,ungram,sg,sg,new: mirror ORC1 (one-name pivot),It's Mona who the journalists on the night desk emails about deadlines.
+exp-fill-mirror_cleft_SRC-ungram,76,mirror cleft SRC,two names,ungram,sg,,new: mirror SRC (two-name pivot),It's Wendy and Dev who locks the doors at the library every night.
+exp-fill-mirror_cleft_ORC1-ungram,77,mirror cleft ORC1,one name,ungram,sg,sg,new: mirror ORC1 (one-name pivot),It's Raj who the plumbers in the union calls about the contracts.
+exp-fill-mirror_cleft_SRC-ungram,78,mirror cleft SRC,two names,ungram,sg,,new: mirror SRC (two-name pivot),It's Sam and Zoe who deposits the checks at the bank on Fridays.
+exp-fill-mirror_cleft_ORC1-ungram,79,mirror cleft ORC1,one name,ungram,sg,pl,new: mirror ORC1 (one-name pivot),It's Nina who the mechanics on the cargo flights texts before takeoff.
+exp-fill-complement_clause-ungram,80,complement clause,,ungram,pl,,kept: identical,The prisoner observed that the comedy show were only entertaining during times of distress.
+exp-fill-mirror_cleft_SRC-ungram,81,mirror cleft SRC,two names,ungram,sg,,new: mirror SRC (two-name pivot),It's Hazel and Luis who walks the shy children to the bus stop.
+exp-fill-complement_clause-ungram,82,complement clause,,ungram,pl,,kept: identical,The scientist noted that the controversial theory were discussed during the radio program.
+exp-fill-mirror_cleft_ORC2-ungram,83,mirror cleft ORC2,two names,ungram,pl,pl,new: mirror ORC2 (two-name pivot),It's Warren and Dora who the vet for the riding stables credit for the donations.
+exp-fill-mirror_cleft_ORC2-ungram,84,mirror cleft ORC2,two names,ungram,pl,sg,new: mirror ORC2 (two-name pivot),It's Lionel and Janet who the umpire at the tennis club warn about the rules.
+exp-fill-mirror_cleft_ORC1-ungram,85,mirror cleft ORC1,one name,ungram,sg,pl,new: mirror ORC1 (one-name pivot),It's Caleb who the drummers in the parades waves to from the float.
+exp-fill-mirror_cleft_ORC2-ungram,86,mirror cleft ORC2,two names,ungram,pl,pl,new: mirror ORC2 (two-name pivot),It's Ian and Lucy who the lifeguard on the beaches watch all afternoon.
+exp-fill-mirror_cleft_SRC-gram,87,mirror cleft SRC,two names,gram,pl,,new: mirror SRC (two-name pivot),It's Simon and Fiona who write to the governor about the polluted river.
+exp-fill-mirror_cleft_ORC1-gram,88,mirror cleft ORC1,one name,gram,pl,sg,new: mirror ORC1 (one-name pivot),It's Nora who the partygoers on the rooftop blame for the ruckus.
+exp-fill-mirror_cleft_ORC2-gram,89,mirror cleft ORC2,two names,gram,sg,pl,new: mirror ORC2 (two-name pivot),It's Molly and Otto who the captain of the rowing crews thanks after every race.
+exp-fill-mirror_cleft_ORC1-gram,90,mirror cleft ORC1,one name,gram,pl,pl,new: mirror ORC1 (one-name pivot),It's Hugo who the swimmers on the relay teams applaud loudly.
+exp-fill-mirror_cleft_SRC-gram,91,mirror cleft SRC,two names,gram,pl,,new: mirror SRC (two-name pivot),It's Elliot and Sara who interpret for the delegates at the peace talks.
+exp-fill-mirror_cleft_ORC1-gram,92,mirror cleft ORC1,one name,gram,pl,sg,new: mirror ORC1 (one-name pivot),It's Iris who the actors in the touring company call before every performance.
+exp-fill-mirror_cleft_SRC-gram,93,mirror cleft SRC,two names,gram,pl,,new: mirror SRC (two-name pivot),It's Paula and Isaac who train the new hires at the startup.
+exp-fill-mirror_cleft_ORC1-gram,94,mirror cleft ORC1,one name,gram,pl,pl,new: mirror ORC1 (one-name pivot),It's Leo who the bartenders at the hotels warn about the regulars.
+exp-fill-mirror_cleft_SRC-gram,95,mirror cleft SRC,two names,gram,pl,,new: mirror SRC (two-name pivot),It's Jonah and Carmen who cheer for the hockey team at every game.
+exp-fill-mirror_cleft_ORC1-gram,96,mirror cleft ORC1,one name,gram,pl,sg,new: mirror ORC1 (one-name pivot),It's Tessa who the tourists at the harbor photograph every summer.
+exp-fill-mirror_cleft_SRC-gram,97,mirror cleft SRC,two names,gram,pl,,new: mirror SRC (two-name pivot),It's Irene and Marcus who throw the parties at the lake house.
+exp-fill-mirror_cleft_ORC2-gram,98,mirror cleft ORC2,two names,gram,sg,sg,new: mirror ORC2 (two-name pivot),It's Edgar and Delia who the mechanic at the garage warns about the brakes.
+exp-fill-mirror_cleft_ORC2-gram,99,mirror cleft ORC2,two names,gram,sg,pl,new: mirror ORC2 (two-name pivot),It's Keira and Percy who the guide on the river tours asks for directions.
+exp-fill-mirror_cleft_ORC1-gram,100,mirror cleft ORC1,one name,gram,pl,pl,new: mirror ORC1 (one-name pivot),It's Omar who the medics from the fire stations train with on weekends.
+exp-fill-mirror_cleft_ORC2-gram,101,mirror cleft ORC2,two names,gram,sg,sg,new: mirror ORC2 (two-name pivot),It's Harvey and Olga who the baker on the corner saves a loaf for.
+exp-fill-mirror_cleft_SRC-gram,102,mirror cleft SRC,two names,gram,pl,,new: mirror SRC (two-name pivot),It's Neil and Joyce who repair the signals along the highway.
+exp-fill-mirror_cleft_ORC1-gram,103,mirror cleft ORC1,one name,gram,pl,sg,new: mirror ORC1 (one-name pivot),It's Vera who the groundskeepers on the estate ask for advice.
+exp-fill-complement_clause-gram,104,complement clause,,gram,pl,,kept: identical,The placard said that the marble sculptures were funded quite generously.
+exp-fill-mirror_cleft_SRC-gram,105,mirror cleft SRC,two names,gram,pl,,new: mirror SRC (two-name pivot),It's Lena and Rafael who organize the charity concerts every winter.
+exp-fill-complement_clause-gram,106,complement clause,,gram,pl,,kept: identical,The survey suggested that the evening broadcasts were trusted the most.
+exp-fill-complement_clause-gram,107,complement clause,,gram,pl,,kept: identical,The text message said that the off-road vehicles were very trustworthy on the range.
+exp-fill-mirror_cleft_ORC2-gram,108,mirror cleft ORC2,two names,gram,sg,pl,new: mirror ORC2 (two-name pivot),It's Celia and Kurt who the publisher of the travel guides sends on assignments.
