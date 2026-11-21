@@ -1,13 +1,13 @@
 label,calib_id,frame,expected,verb_num,direction,feedback,sentence
-calib,C01,cleft ORC,gram,pl,,Most English speakers find that sentence acceptable.,It's Marta who the neighbors next door invite to every barbecue.
-calib,C02,cleft ORC,ungram,pl,sg subj / pl verb,Most English speakers find that sentence not acceptable: it should be <i>the gardener … thanks</i>.,It's Hector who the gardener at the museum thank every afternoon.
-calib,C03,cleft SRC,gram,pl,,Most English speakers find that sentence acceptable.,It's Jun and Amara who sing at the open-mic night every Friday.
-calib,C04,cleft SRC,ungram,sg,pl subj / sg verb,Most English speakers find that sentence not acceptable: it should be <i>Desmond and Kiko … borrow</i>.,It's Desmond and Kiko who borrows the van every weekend.
-calib,C05,complement,gram,pl,,Most English speakers find that sentence acceptable.,The bakery said that the new freezers were finally working again.
-calib,C06,complement,ungram,pl,sg subj / pl verb,Most English speakers find that sentence not acceptable: it should be <i>the young goalie was</i>.,The newspaper reported that the young goalie were ready for the final.
-calib,C07,subject RC,gram,sg,,Most English speakers find that sentence acceptable.,The building manager who the tenants complain about rarely answers the phone.
-calib,C08,simple,ungram,sg,pl subj / sg verb,Most English speakers find that sentence not acceptable: it should be <i>the old kettles are</i>.,The old kettles is leaking water all over the counter.
-calib,C09,subject RC,gram,sg,,Most English speakers find that sentence acceptable.,The volunteer who painted the fences was proud of her work.
-calib,C10,subject RC,ungram,pl,sg subj / pl verb,Most English speakers find that sentence not acceptable: it should be <i>the tailor … is</i>.,The tailor who fixed my jacket last week are opening a second store.
-calib,C11,odd but grammatical,gram,sg,,"Most English speakers find that sentence acceptable. It's a strange thing to say, but nothing in it is wrong.",The giraffe that the children named Gerald insists on wearing a scarf.
-calib,C12,simple,ungram,sg,pl subj / sg verb,Most English speakers find that sentence not acceptable: it should be <i>my cousins drive</i>.,My cousins drives to work even when it snows.
+calib,C01,cleft ORC,gram,pl,,Most English speakers consider this sentence acceptable.,It's Marta who the neighbors next door invite to every barbecue.
+calib,C02,cleft ORC,ungram,pl,sg subj / pl verb,Most English speakers consider this sentence to contain an error. They would say <i>the gardener … thanks</i>.,It's Hector who the gardener at the museum thank every afternoon.
+calib,C03,cleft SRC,gram,pl,,Most English speakers consider this sentence acceptable.,It's Jun and Amara who sing at the open-mic night every Friday.
+calib,C04,cleft SRC,ungram,sg,pl subj / sg verb,Most English speakers consider this sentence to contain an error. They would say <i>Desmond and Kiko … borrow</i>.,It's Desmond and Kiko who borrows the van every weekend.
+calib,C05,complement,gram,pl,,Most English speakers consider this sentence acceptable.,The bakery said that the new freezers were finally working again.
+calib,C06,complement,ungram,pl,sg subj / pl verb,Most English speakers consider this sentence to contain an error. They would say <i>the young goalie was</i>.,The newspaper reported that the young goalie were ready for the final.
+calib,C07,subject RC,gram,sg,,Most English speakers consider this sentence acceptable.,The building manager who the tenants complain about rarely answers the phone.
+calib,C08,simple,ungram,sg,pl subj / sg verb,Most English speakers consider this sentence to contain an error. They would say <i>the old kettles are</i>.,The old kettles is leaking water all over the counter.
+calib,C09,subject RC,gram,sg,,Most English speakers consider this sentence acceptable.,The volunteer who painted the fences was proud of her work.
+calib,C10,subject RC,ungram,pl,sg subj / pl verb,Most English speakers consider this sentence to contain an error. They would say <i>the tailor … is</i>.,The tailor who fixed my jacket last week are opening a second store.
+calib,C11,odd but grammatical,gram,sg,,"Most English speakers consider this sentence acceptable. It's a strange thing to say, but nothing in it is wrong.",The giraffe that the children named Gerald insists on wearing a scarf.
+calib,C12,simple,ungram,sg,pl subj / sg verb,Most English speakers consider this sentence to contain an error. They would say <i>my cousins drive</i>.,My cousins drives to work even when it snows.
